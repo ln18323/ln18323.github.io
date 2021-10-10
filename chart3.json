@@ -2,16 +2,16 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     
     "title": {
-      "text": "Comparison of Covid Death by Region  (through direct API)",
+      "text": "UK Covid Deaths in 3 Major Regions",
       "subtitle":"This chart is displayed through direct API",
       "subtitleFontStyle":"italic",
-      "subtitleFontSize":10,
+      "subtitleFontSize":15,
       "anchor": "start",
       "color": "black"
     },
     
      "data": {
-      "url": "https://api.coronavirus.data.gov.uk/v2/data?areaType=region&metric=cumDailyNsoDeathsByDeathDate&format=csv",
+      "url": "https://api.coronavirus.data.gov.uk/v2/data?areaType=region&metric=newDeaths28DaysByDeathDate&format=csv",
       "format": {"type": "csv"}
     },
   
@@ -19,7 +19,7 @@
         
         {"filter": {
           "field": "areaName", 
-          "oneOf": ["London", "South West"]}
+          "oneOf": ["London", "South West", "East of England"]}
           }
   
   
@@ -41,7 +41,7 @@
       },
   
       "y": {
-        "field": "newCasesByPublishDateRollingRate",
+        "field": "newDeaths28DaysByDeathDate",
         "type": "quantitative",
         "title": null,
         "axis": {"grid": false}
