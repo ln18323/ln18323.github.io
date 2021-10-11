@@ -6,7 +6,8 @@
 
 body{
     background-color: grey;
-    vertical-align: middle
+    vertical-align: middle;
+    max-width: 500px;
 }
 
 h1, h3, p{
