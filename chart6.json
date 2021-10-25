@@ -1,0 +1,64 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "config": {
+      "background":"#d8dfe4",
+      "view": {
+        "stroke": "transparent"}},
+
+    "title": {
+    "text": "Circulating supply % of Nomics' Top 3 Cryptos ",
+    "anchor": "start",
+    "color": "#882c16",
+    "subtitle":"Generated from my Nomic API",
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "subtitleColor":"#a35913"},
+
+    "data": {
+      "url": " https://api.allorigins.win/raw?url=https://api.nomics.com/v1/currencies/ticker?key=abb0a0679a7ca51aebfcf377740f43a219bcfd3b&ids=BTC,ETH,XRP&interval=1h,1d,30d,ytd"},
+  
+
+ "transform":[
+      {"filter": {
+        "field": "currency", 
+        "oneOf": ["BTC", "BNB", "HEX"]}},
+      {"calculate": "datum.circulating_supply/datum.max_supply", "as": "circulating_supply_percentage"}           
+      ],
+
+    "mark": {
+      "type": "bar",
+      "color":"#e3e622"},
+  
+    "width":300,
+    "height":300,
+    
+    "encoding": {
+      
+      "x": {
+        "field": "currency", 
+        "type": "ordinal", 
+        "title": "Currency",
+        "sort":"-y",
+        "axis":{
+          "domainColor":"dimgrey",
+          "labelColor":"#a70032",
+          "tickColor":"pink",
+          "gridColor":"hotpink"
+          }
+        },
+      "y": {
+        "field": "circulating_supply_percentage", 
+        "type": "quantitative", 
+        "title": "Circulating Supply percentage to their own's Max Supply",
+          "axis":{
+            "domainColor":"dimgrey",
+            "labelColor":"#1d1a12c7",
+            "tickColor":"pink",
+            "gridColor":"dimgrey",
+            "format":"%"
+          }
+  
+    }
+  }
+}
