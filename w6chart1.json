@@ -1,0 +1,62 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "note1": "NOMICS cryptocurrency chart. CORS does not work.",
+    "note2": "Works using the AllOrigins tool, but this then retieves all/more data than expected.", 
+    "note3": "As a consequence data needs to be filtered before charting. Example of how to get what we want from JSON data using dot notation.",
+  
+  
+    "config": {
+      "background":"darkgray",
+      "view": {
+        "stroke": "transparent"}},
+  
+    "title": {
+    "text": "BTC daily in Oct 2021",
+    "anchor": "start",
+    "color": "#882c16",
+    "subtitle":"Generated from my Nomic API",
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "subtitleColor":"#a35913"},
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/data_UG21BTC.json"},
+  
+  
+  
+  
+    "mark": {
+      "type": "line",
+      "color":"#e3e622"},
+  
+    "width":220,
+    "height":300,
+  "transform": [{"filter":{"field": "timestamp",
+    "range": [{"year": 2021, "month": "Oct", "date": 1}, {"year": 2021, "month": "Oct", "date": 31}]}}],
+    
+    "encoding": {
+      
+      "x": {
+        "field": "timestamp", 
+        "timeUnit": "monthdate",
+        "type": "ordinal", 
+        "title": null
+  
+        
+      },    
+      "y": {
+        "field": "rate", 
+        "type": "quantitative", 
+        "title": null,
+          "axis":{
+            "domainColor":"dimgrey",
+            "labelColor":"#1d1a12c7",
+            "tickColor":"pink",
+            "gridColor":"dimgrey"
+          },
+          "scale": {"domain": [45000, 68000]}
+  
+    }
+  }
+  }
