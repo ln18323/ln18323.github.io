@@ -24,3 +24,9 @@ h1, h3, p{
     border-color: white;
 }
 
+.center {
+    margin: auto;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px;
+}
