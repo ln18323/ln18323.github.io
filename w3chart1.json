@@ -11,17 +11,11 @@
     },
     
      "data": {
-      "url": "https://api.coronavirus.data.gov.uk/v2/data?areaType=region&metric=newDeaths28DaysByDeathDate&format=csv",
+      "url": "https://api.coronavirus.data.gov.uk/v2/data?areaType=region&metric=uniqueCasePositivityBySpecimenDateRollingSum&format=csv",
       "format": {"type": "csv"}
     },
-  
-     "transform":[
-        
-        {"filter": {
-          "field": "areaName", 
-          "oneOf": ["London"]}
-          }
-      ],
+    "transform": [{"filter": {"field": "areaName",
+    "oneOf": ["London", "North East", "South West"]}}],
     
     
     "height": 300,
@@ -39,7 +33,7 @@
       },
   
       "y": {
-        "field": "newDeaths28DaysByDeathDate",
+        "field": "uniqueCasePositivityBySpecimenDateRollingSum",
         "type": "quantitative",
         "title": null,
         "axis": {"grid": false}
