@@ -1,0 +1,37 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  
+  "description": "UK Immigrants Count",
+  
+  "data": {
+    "url": "https://data.london.gov.uk/api/table/4j612_3hbyn?$select=unnamed_1&$select=uk_net",
+    "format": {
+      "type": "json",
+      "property": "rows"}
+  },
+
+  "title": {
+    "text": "UK Immigrants Count",
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start",
+    "color": "black"
+  },
+
+  "height": 300,
+  
+  "width": 280,
+  
+  "mark": {"type": "line", "width":10},
+
+  "encoding": {
+    "x": {"field": "unnamed_1", "type": "ordinal", "title": "Data", 
+    "axis": {"labels": false}},
+    "y": {
+      "field": "uk_net",
+      "type": "quantitative",
+      "title": "Net Immigrants",
+      "scale": {"domain": [140, 350]}
+    
+    }
+  }
+}
