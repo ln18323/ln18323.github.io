@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     
     "title": {
-      "text": "UK Covid Deaths in 3 Major Regions",
+      "text": "Covid Cases in 3 UK Regions",
       "subtitle":"This chart is displayed through direct API",
       "subtitleFontStyle":"italic",
       "subtitleFontSize":15,
