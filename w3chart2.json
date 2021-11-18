@@ -11,7 +11,7 @@
     },
     
      "data": {
-      "url": "w3chart2.csv",
+      "url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/w3chart2.csv",
       "format": {"type": "csv"}
     },
     "transform": [{"filter": {"field": "areaName",
