@@ -19,10 +19,8 @@
         
         {"filter": {
           "field": "areaName", 
-          "oneOf": ["London", "South West", "East of England"]}
+          "oneOf": ["London"]}
           }
-  
-  
       ],
     
     
