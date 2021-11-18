@@ -1,0 +1,52 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    
+    "title": {
+      "text": "Covid Cases in 3 UK Regions",
+      "subtitle":"This chart is displayed through direct API",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":15,
+      "anchor": "start",
+      "color": "black"
+    },
+    
+     "data": {
+      "url": "w3chart2.csv",
+      "format": {"type": "csv"}
+    },
+    "transform": [{"filter": {"field": "areaName",
+    "oneOf": ["London"]}}],
+    
+    
+    "height": 300,
+    "width": 310,
+     
+    "mark": {"type": "line", "point": false},
+   
+    "encoding": {
+  
+      "x": {
+        "field": "date",
+        "type": "temporal",
+        "title": null,
+        "axis": {"grid": false}
+      },
+  
+      "y": {
+        "field": "uniqueCasePositivityBySpecimenDateRollingSum",
+        "type": "quantitative",
+        "title": null,
+        "axis": {"grid": false}
+      },
+  
+      "color": {
+        "field": "areaName",
+        "type": "nominal",
+        "scale": {"scheme": "set1"},
+        "title": "Region",
+        "legend": {
+          "orient": "top-left", 
+          "fillColor": "#FcFdFd"}
+      }
+  }
+  }
