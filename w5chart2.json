@@ -1,0 +1,27 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  
+    "description": "UK Immigrants Count",
+    "title": "IBM stock closing over past 30 days",
+    "data": {
+      "url": "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY_EXTENDED&symbol=IBM&interval=60min&slice=year1month1&adjusted=true&apikey=M2NKM56HIYPJOYI8&datatype=csv",
+      "format": {
+        "type": "csv"}
+    },
+  
+  
+    "height": 300,
+    "width": 280,
+    
+    "mark": {"type": "line", "width":10},
+    "encoding": {
+      "x": {"field": "time", "type": "temporal"},
+      "y": {
+        "field": "close",
+        "type": "quantitative",
+        "title": "Adjusted intraday closing price",
+        "scale": {"domain": [110, 140]}}
+      
+      }
+    }
+  
+  
