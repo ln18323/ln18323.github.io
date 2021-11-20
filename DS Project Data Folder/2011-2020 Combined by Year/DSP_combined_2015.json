@@ -1,0 +1,262 @@
+[
+    {
+        "name": "The United States",
+        "income": "61748",
+        "police_total": 18234.0
+    },
+    {
+        "name": "Alabama",
+        "income": "48629",
+        "police_total": 13079
+    },
+    {
+        "name": "Alaska",
+        "income": "82066",
+        "police_total": 9
+    },
+    {
+        "name": "Arizona",
+        "income": "57085",
+        "police_total": 22653
+    },
+    {
+        "name": "Arkansas",
+        "income": "46760",
+        "police_total": 9352
+    },
+    {
+        "name": "California",
+        "income": "69527",
+        "police_total": 118630
+    },
+    {
+        "name": "Colorado",
+        "income": "72761",
+        "police_total": 17940
+    },
+    {
+        "name": "Connecticut",
+        "income": "79637",
+        "police_total": 9696
+    },
+    {
+        "name": "Delaware",
+        "income": "63103",
+        "police_total": 3276
+    },
+    {
+        "name": "District of Columbia",
+        "income": "76558",
+        "police_total": 5010
+    },
+    {
+        "name": "Florida",
+        "income": "53345",
+        "police_total": 58280
+    },
+    {
+        "name": "Georgia",
+        "income": "55468",
+        "police_total": 26594
+    },
+    {
+        "name": "Hawaii",
+        "income": "70486",
+        "police_total": 3765
+    },
+    {
+        "name": "Idaho",
+        "income": "56403",
+        "police_total": 4384
+    },
+    {
+        "name": "Illinois",
+        "income": "66006",
+        "police_total": 22642
+    },
+    {
+        "name": "Indiana",
+        "income": "56795",
+        "police_total": 10809
+    },
+    {
+        "name": "Iowa",
+        "income": "66489",
+        "police_total": 8025
+    },
+    {
+        "name": "Kansas",
+        "income": "59944",
+        "police_total": 9031
+    },
+    {
+        "name": "Kentucky",
+        "income": "46311",
+        "police_total": 7730
+    },
+    {
+        "name": "Louisiana",
+        "income": "50173",
+        "police_total": 13245
+    },
+    {
+        "name": "Maine",
+        "income": "55455",
+        "police_total": 2885
+    },
+    {
+        "name": "Maryland",
+        "income": "80407",
+        "police_total": 22849
+    },
+    {
+        "name": "Massachusetts",
+        "income": "74143",
+        "police_total": 20663
+    },
+    {
+        "name": "Michigan",
+        "income": "59221",
+        "police_total": 22926
+    },
+    {
+        "name": "Minnesota",
+        "income": "75093",
+        "police_total": 13936
+    },
+    {
+        "name": "Mississippi",
+        "income": "43743",
+        "police_total": 4016
+    },
+    {
+        "name": "Missouri",
+        "income": "64676",
+        "police_total": 20046
+    },
+    {
+        "name": "Montana",
+        "income": "56153",
+        "police_total": 3153
+    },
+    {
+        "name": "Nebraska",
+        "income": "66072",
+        "police_total": 5334
+    },
+    {
+        "name": "Nevada",
+        "income": "56823",
+        "police_total": 9106
+    },
+    {
+        "name": "New Hampshire",
+        "income": "82681",
+        "police_total": 3469
+    },
+    {
+        "name": "New Jersey",
+        "income": "74685",
+        "police_total": 39399
+    },
+    {
+        "name": "New Mexico",
+        "income": "49296",
+        "police_total": 1419
+    },
+    {
+        "name": "New York",
+        "income": "63375",
+        "police_total": 81093
+    },
+    {
+        "name": "North Carolina",
+        "income": "55500",
+        "police_total": 34225
+    },
+    {
+        "name": "North Dakota",
+        "income": "62730",
+        "police_total": 2345
+    },
+    {
+        "name": "Ohio",
+        "income": "58235",
+        "police_total": 18058
+    },
+    {
+        "name": "Oklahoma",
+        "income": "51435",
+        "police_total": 11417
+    },
+    {
+        "name": "Oregon",
+        "income": "66466",
+        "police_total": 10571
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "65980",
+        "police_total": 30691
+    },
+    {
+        "name": "Rhode Island",
+        "income": "60858",
+        "police_total": 3065
+    },
+    {
+        "name": "South Carolina",
+        "income": "50652",
+        "police_total": 15943
+    },
+    {
+        "name": "South Dakota",
+        "income": "60163",
+        "police_total": 2598
+    },
+    {
+        "name": "Tennessee",
+        "income": "51712",
+        "police_total": 26722
+    },
+    {
+        "name": "Texas",
+        "income": "61701",
+        "police_total": 71811
+    },
+    {
+        "name": "Utah",
+        "income": "72392",
+        "police_total": 7157
+    },
+    {
+        "name": "Vermont",
+        "income": "65002",
+        "police_total": 1448
+    },
+    {
+        "name": "Virginia",
+        "income": "67178",
+        "police_total": 24070
+    },
+    {
+        "name": "Washington",
+        "income": "73468",
+        "police_total": 14610
+    },
+    {
+        "name": "West Virginia",
+        "income": "46789",
+        "police_total": 4708
+    },
+    {
+        "name": "Wisconsin",
+        "income": "60556",
+        "police_total": 18474
+    },
+    {
+        "name": "Wyoming",
+        "income": "66565",
+        "police_total": 1897
+    }
+]
