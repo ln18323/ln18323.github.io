@@ -1,0 +1,314 @@
+[
+    {
+        "name": "The United States",
+        "income": "65127",
+        "police_total": 19593.0,
+        "region": "USA"
+    },
+    {
+        "name": "Alabama",
+        "income": "51475",
+        "police_total": 15859,
+        "region": "South"
+    },
+    {
+        "name": "Alaska",
+        "income": "70853",
+        "police_total": 1985,
+        "region": "West"
+    },
+    {
+        "name": "Arizona",
+        "income": "64203",
+        "police_total": 22600,
+        "region": "West"
+    },
+    {
+        "name": "Arkansas",
+        "income": "51316",
+        "police_total": 10628,
+        "region": "South"
+    },
+    {
+        "name": "California",
+        "income": "72662",
+        "police_total": 120041,
+        "region": "West"
+    },
+    {
+        "name": "Colorado",
+        "income": "75285",
+        "police_total": 18510,
+        "region": "West"
+    },
+    {
+        "name": "Connecticut",
+        "income": "75057",
+        "police_total": 9283,
+        "region": "Northeast"
+    },
+    {
+        "name": "Delaware",
+        "income": "67016",
+        "police_total": 3284,
+        "region": "South"
+    },
+    {
+        "name": "District of Columbia",
+        "income": "88393",
+        "police_total": 5145,
+        "region": "South"
+    },
+    {
+        "name": "Florida",
+        "income": "56329",
+        "police_total": 73678,
+        "region": "South"
+    },
+    {
+        "name": "Georgia",
+        "income": "57542",
+        "police_total": 36843,
+        "region": "South"
+    },
+    {
+        "name": "Hawaii",
+        "income": "82578",
+        "police_total": 3624,
+        "region": "West"
+    },
+    {
+        "name": "Idaho",
+        "income": "60538",
+        "police_total": 5568,
+        "region": "West"
+    },
+    {
+        "name": "Illinois",
+        "income": "72307",
+        "police_total": 36750,
+        "region": "Midwest"
+    },
+    {
+        "name": "Indiana",
+        "income": "61738",
+        "police_total": 12131,
+        "region": "Midwest"
+    },
+    {
+        "name": "Iowa",
+        "income": "70836",
+        "police_total": 7530,
+        "region": "Midwest"
+    },
+    {
+        "name": "Kansas",
+        "income": "65909",
+        "police_total": 9122,
+        "region": "Midwest"
+    },
+    {
+        "name": "Kentucky",
+        "income": "56237",
+        "police_total": 9665,
+        "region": "South"
+    },
+    {
+        "name": "Louisiana",
+        "income": "51514",
+        "police_total": 18843,
+        "region": "South"
+    },
+    {
+        "name": "Maine",
+        "income": "60471",
+        "police_total": 2932,
+        "region": "Northeast"
+    },
+    {
+        "name": "Maryland",
+        "income": "88881",
+        "police_total": 22114,
+        "region": "South"
+    },
+    {
+        "name": "Massachusetts",
+        "income": "89007",
+        "police_total": 20340,
+        "region": "Northeast"
+    },
+    {
+        "name": "Michigan",
+        "income": "62312",
+        "police_total": 24072,
+        "region": "Midwest"
+    },
+    {
+        "name": "Minnesota",
+        "income": "74031",
+        "police_total": 15264,
+        "region": "Midwest"
+    },
+    {
+        "name": "Mississippi",
+        "income": "44100",
+        "police_total": 4263,
+        "region": "South"
+    },
+    {
+        "name": "Missouri",
+        "income": "63629",
+        "police_total": 20223,
+        "region": "Midwest"
+    },
+    {
+        "name": "Montana",
+        "income": "59457",
+        "police_total": 3029,
+        "region": "West"
+    },
+    {
+        "name": "Nebraska",
+        "income": "69658",
+        "police_total": 5394,
+        "region": "Midwest"
+    },
+    {
+        "name": "Nevada",
+        "income": "63771",
+        "police_total": 9127,
+        "region": "West"
+    },
+    {
+        "name": "New Hampshire",
+        "income": "83854",
+        "police_total": 3689,
+        "region": "Northeast"
+    },
+    {
+        "name": "New Jersey",
+        "income": "76463",
+        "police_total": 40826,
+        "region": "Northeast"
+    },
+    {
+        "name": "New Mexico",
+        "income": "49771",
+        "police_total": 3877,
+        "region": "West"
+    },
+    {
+        "name": "New York",
+        "income": "69348",
+        "police_total": 84209,
+        "region": "Northeast"
+    },
+    {
+        "name": "North Carolina",
+        "income": "55014",
+        "police_total": 34337,
+        "region": "South"
+    },
+    {
+        "name": "North Dakota",
+        "income": "68555",
+        "police_total": 2477,
+        "region": "Midwest"
+    },
+    {
+        "name": "Ohio",
+        "income": "63533",
+        "police_total": 19868,
+        "region": "Midwest"
+    },
+    {
+        "name": "Oklahoma",
+        "income": "56112",
+        "police_total": 13016,
+        "region": "South"
+    },
+    {
+        "name": "Oregon",
+        "income": "71297",
+        "police_total": 10775,
+        "region": "West"
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "66513",
+        "police_total": 29206,
+        "region": "Northeast"
+    },
+    {
+        "name": "Rhode Island",
+        "income": "64186",
+        "police_total": 3113,
+        "region": "Northeast"
+    },
+    {
+        "name": "South Carolina",
+        "income": "59215",
+        "police_total": 16840,
+        "region": "South"
+    },
+    {
+        "name": "South Dakota",
+        "income": "61296",
+        "police_total": 3008,
+        "region": "Midwest"
+    },
+    {
+        "name": "Tennessee",
+        "income": "57788",
+        "police_total": 27738,
+        "region": "South"
+    },
+    {
+        "name": "Texas",
+        "income": "61628",
+        "police_total": 70294,
+        "region": "South"
+    },
+    {
+        "name": "Utah",
+        "income": "79443",
+        "police_total": 7237,
+        "region": "West"
+    },
+    {
+        "name": "Vermont",
+        "income": "72226",
+        "police_total": 1815,
+        "region": "Northeast"
+    },
+    {
+        "name": "Virginia",
+        "income": "79529",
+        "police_total": 24272,
+        "region": "South"
+    },
+    {
+        "name": "Washington",
+        "income": "82184",
+        "police_total": 15873,
+        "region": "West"
+    },
+    {
+        "name": "West Virginia",
+        "income": "52132",
+        "police_total": 5159,
+        "region": "South"
+    },
+    {
+        "name": "Wisconsin",
+        "income": "64560",
+        "police_total": 18021,
+        "region": "Midwest"
+    },
+    {
+        "name": "Wyoming",
+        "income": "64467",
+        "police_total": 2323,
+        "region": "West"
+    }
+]
