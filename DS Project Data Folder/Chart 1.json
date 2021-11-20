@@ -1,0 +1,110 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+  
+    "title": {
+    "text": "No. of Police VS Median Income",
+    "subtitle": "Number of Police of a State (X), and the median level of household income of a State (Y)",
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start",
+    "color": "black"
+  },
+  
+    "width":300,
+    "height":300,
+  
+    "encoding": {
+  
+      "x": {
+        "field": "income", 
+        "type": "quantitative", 
+        "title":"Median household Income",
+        "scale": {"domain": [30000, 115000]}},
+  
+      "y": {
+       "field": "police_total",
+       "type": "quantitative",
+       "title":"Number of Police Employed",
+       "scale": {"domain": [0, 140000]}
+       },
+  
+      "color": {
+        "field": "region", 
+        "type": "ordinal",
+        "scale": {"scheme": "set1"},
+        "legend": {"orient":"right"}},
+  
+      
+  
+      "tooltip":[
+        {"field":"name", "title":"State", "type": "ordinal"}
+      ]
+    },
+   
+    "params": [    
+      {"name":"yearselected", "value":2020,
+         "bind":{
+           "input": "range",
+           "min": 2011, 
+           "max": 2020, 
+           "step": 1,
+           "name": "Year selected:"}
+      }],
+  
+  
+    "layer":[
+      
+    {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_The United States.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Alabama.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Alaska.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Arizona.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Arkansas.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_California.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Colorado.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Connecticut.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Delaware.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_District of Columbia.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Florida.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Georgia.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Hawaii.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Idaho.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Illinois.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Indiana.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Iowa.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Kansas.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Kentucky.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Louisiana.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Maine.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Maryland.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Massachusetts.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Michigan.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Minnesota.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Mississippi.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Missouri.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Montana.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Nebraska.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Nevada.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_New Hampshire.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_New Jersey.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_New Mexico.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_New York.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_North Carolina.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_North Dakota.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Ohio.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Oklahoma.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Oregon.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Pennsylvania.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Rhode Island.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_South Carolina.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_South Dakota.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Tennessee.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Texas.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Utah.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Vermont.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Virginia.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Washington.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_West Virginia.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Wisconsin.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}},
+  {"data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Detailed%20by%20States%20and%20Year/DSP_detailed_Wyoming.json","format": {"type":"json"}},"transform": [{"filter": "datum.year==yearselected"}],"mark":{"type": "circle", "size": 100}}]
+  }
