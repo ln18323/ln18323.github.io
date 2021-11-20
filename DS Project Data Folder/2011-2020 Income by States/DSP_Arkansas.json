@@ -1,0 +1,76 @@
+{
+    "realtime_start": "2021-11-19",
+    "realtime_end": "2021-11-19",
+    "observation_start": "2011-01-01",
+    "observation_end": "9999-12-31",
+    "units": "lin",
+    "output_type": 1,
+    "file_type": "json",
+    "order_by": "observation_date",
+    "sort_order": "asc",
+    "count": 10,
+    "offset": 0,
+    "limit": 100000,
+    "observations": [
+        {
+            "realtime_start": "2021-11-19",
+            "realtime_end": "2021-11-19",
+            "date": "2011-01-01",
+            "value": "47638"
+        },
+        {
+            "realtime_start": "2021-11-19",
+            "realtime_end": "2021-11-19",
+            "date": "2012-01-01",
+            "value": "44070"
+        },
+        {
+            "realtime_start": "2021-11-19",
+            "realtime_end": "2021-11-19",
+            "date": "2013-01-01",
+            "value": "43825"
+        },
+        {
+            "realtime_start": "2021-11-19",
+            "realtime_end": "2021-11-19",
+            "date": "2014-01-01",
+            "value": "49165"
+        },
+        {
+            "realtime_start": "2021-11-19",
+            "realtime_end": "2021-11-19",
+            "date": "2015-01-01",
+            "value": "46760"
+        },
+        {
+            "realtime_start": "2021-11-19",
+            "realtime_end": "2021-11-19",
+            "date": "2016-01-01",
+            "value": "49518"
+        },
+        {
+            "realtime_start": "2021-11-19",
+            "realtime_end": "2021-11-19",
+            "date": "2017-01-01",
+            "value": "52535"
+        },
+        {
+            "realtime_start": "2021-11-19",
+            "realtime_end": "2021-11-19",
+            "date": "2018-01-01",
+            "value": "51316"
+        },
+        {
+            "realtime_start": "2021-11-19",
+            "realtime_end": "2021-11-19",
+            "date": "2019-01-01",
+            "value": "55220"
+        },
+        {
+            "realtime_start": "2021-11-19",
+            "realtime_end": "2021-11-19",
+            "date": "2020-01-01",
+            "value": "50540"
+        }
+    ]
+}
