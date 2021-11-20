@@ -1,0 +1,72 @@
+[
+    {
+        "name": "North Dakota",
+        "income": "65007",
+        "police_total": 1864,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "North Dakota",
+        "income": "62987",
+        "police_total": 1968,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "North Dakota",
+        "income": "65836",
+        "police_total": 1992,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "North Dakota",
+        "income": "66466",
+        "police_total": 2157,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "North Dakota",
+        "income": "62730",
+        "police_total": 2345,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "North Dakota",
+        "income": "64918",
+        "police_total": 2452,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "North Dakota",
+        "income": "63534",
+        "police_total": 2417,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "North Dakota",
+        "income": "68555",
+        "police_total": 2477,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "North Dakota",
+        "income": "70905",
+        "police_total": 2442,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "North Dakota",
+        "income": "63657",
+        "police_total": 2556,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

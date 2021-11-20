@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Idaho",
+        "income": "54739",
+        "police_total": 4251,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "Idaho",
+        "income": "54127",
+        "police_total": 4265,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "Idaho",
+        "income": "53943",
+        "police_total": 4272,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "Idaho",
+        "income": "58486",
+        "police_total": 4265,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "Idaho",
+        "income": "56403",
+        "police_total": 4384,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "Idaho",
+        "income": "61014",
+        "police_total": 4432,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "Idaho",
+        "income": "62826",
+        "police_total": 4501,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "Idaho",
+        "income": "60538",
+        "police_total": 5568,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "Idaho",
+        "income": "66812",
+        "police_total": 5755,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "Idaho",
+        "income": "66499",
+        "police_total": 5839,
+        "region": "West",
+        "year": 2020
+    }
+]

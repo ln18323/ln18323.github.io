@@ -1,0 +1,72 @@
+[
+    {
+        "name": "New Jersey",
+        "income": "71901",
+        "police_total": 36854,
+        "region": "Northeast",
+        "year": 2011
+    },
+    {
+        "name": "New Jersey",
+        "income": "75327",
+        "police_total": 37902,
+        "region": "Northeast",
+        "year": 2012
+    },
+    {
+        "name": "New Jersey",
+        "income": "70958",
+        "police_total": 31952,
+        "region": "Northeast",
+        "year": 2013
+    },
+    {
+        "name": "New Jersey",
+        "income": "71406",
+        "police_total": 38713,
+        "region": "Northeast",
+        "year": 2014
+    },
+    {
+        "name": "New Jersey",
+        "income": "74685",
+        "police_total": 39399,
+        "region": "Northeast",
+        "year": 2015
+    },
+    {
+        "name": "New Jersey",
+        "income": "73854",
+        "police_total": 40392,
+        "region": "Northeast",
+        "year": 2016
+    },
+    {
+        "name": "New Jersey",
+        "income": "75226",
+        "police_total": 40469,
+        "region": "Northeast",
+        "year": 2017
+    },
+    {
+        "name": "New Jersey",
+        "income": "76463",
+        "police_total": 40826,
+        "region": "Northeast",
+        "year": 2018
+    },
+    {
+        "name": "New Jersey",
+        "income": "88821",
+        "police_total": 48938,
+        "region": "Northeast",
+        "year": 2019
+    },
+    {
+        "name": "New Jersey",
+        "income": "85239",
+        "police_total": 49745,
+        "region": "Northeast",
+        "year": 2020
+    }
+]

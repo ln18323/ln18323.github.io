@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Kansas",
+        "income": "53226",
+        "police_total": 10058,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "Kansas",
+        "income": "56477",
+        "police_total": 9675,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "Kansas",
+        "income": "53223",
+        "police_total": 9249,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "Kansas",
+        "income": "58492",
+        "police_total": 10249,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "Kansas",
+        "income": "59944",
+        "police_total": 9031,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "Kansas",
+        "income": "61279",
+        "police_total": 9290,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "Kansas",
+        "income": "60084",
+        "police_total": 9612,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "Kansas",
+        "income": "65909",
+        "police_total": 9122,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "Kansas",
+        "income": "74065",
+        "police_total": 10659,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "Kansas",
+        "income": "72815",
+        "police_total": 8111,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

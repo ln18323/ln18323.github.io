@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Ohio",
+        "income": "51497",
+        "police_total": 30002,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "Ohio",
+        "income": "50121",
+        "police_total": 19288,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "Ohio",
+        "income": "56482",
+        "police_total": 16934,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "Ohio",
+        "income": "54333",
+        "police_total": 12771,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "Ohio",
+        "income": "58235",
+        "police_total": 18058,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "Ohio",
+        "income": "58232",
+        "police_total": 17084,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "Ohio",
+        "income": "64084",
+        "police_total": 17963,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "Ohio",
+        "income": "63533",
+        "police_total": 19868,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "Ohio",
+        "income": "65470",
+        "police_total": 16876,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "Ohio",
+        "income": "60110",
+        "police_total": 18928,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

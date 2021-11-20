@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Colorado",
+        "income": "67623",
+        "police_total": 16700,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "Colorado",
+        "income": "64668",
+        "police_total": 17270,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "Colorado",
+        "income": "75586",
+        "police_total": 17441,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "Colorado",
+        "income": "66696",
+        "police_total": 17572,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "Colorado",
+        "income": "72761",
+        "police_total": 17940,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "Colorado",
+        "income": "76117",
+        "police_total": 18225,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "Colorado",
+        "income": "79180",
+        "police_total": 18425,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "Colorado",
+        "income": "75285",
+        "police_total": 18510,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "Colorado",
+        "income": "73404",
+        "police_total": 18901,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "Colorado",
+        "income": "82611",
+        "police_total": 19286,
+        "region": "West",
+        "year": 2020
+    }
+]

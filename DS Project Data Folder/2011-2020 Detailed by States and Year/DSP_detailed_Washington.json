@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Washington",
+        "income": "65571",
+        "police_total": 14317,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "Washington",
+        "income": "70239",
+        "police_total": 14212,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "Washington",
+        "income": "71145",
+        "police_total": 14475,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "Washington",
+        "income": "64647",
+        "police_total": 14566,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "Washington",
+        "income": "73468",
+        "police_total": 14610,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "Washington",
+        "income": "75841",
+        "police_total": 15013,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "Washington",
+        "income": "75543",
+        "police_total": 15383,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "Washington",
+        "income": "82184",
+        "police_total": 15873,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "Washington",
+        "income": "83483",
+        "police_total": 16004,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "Washington",
+        "income": "81083",
+        "police_total": 15947,
+        "region": "West",
+        "year": 2020
+    }
+]

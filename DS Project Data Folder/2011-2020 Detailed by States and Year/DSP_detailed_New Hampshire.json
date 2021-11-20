@@ -1,0 +1,72 @@
+[
+    {
+        "name": "New Hampshire",
+        "income": "75986",
+        "police_total": 3473,
+        "region": "Northeast",
+        "year": 2011
+    },
+    {
+        "name": "New Hampshire",
+        "income": "76600",
+        "police_total": 3433,
+        "region": "Northeast",
+        "year": 2012
+    },
+    {
+        "name": "New Hampshire",
+        "income": "76907",
+        "police_total": 3432,
+        "region": "Northeast",
+        "year": 2013
+    },
+    {
+        "name": "New Hampshire",
+        "income": "80330",
+        "police_total": 3401,
+        "region": "Northeast",
+        "year": 2014
+    },
+    {
+        "name": "New Hampshire",
+        "income": "82681",
+        "police_total": 3469,
+        "region": "Northeast",
+        "year": 2015
+    },
+    {
+        "name": "New Hampshire",
+        "income": "82259",
+        "police_total": 3566,
+        "region": "Northeast",
+        "year": 2016
+    },
+    {
+        "name": "New Hampshire",
+        "income": "79862",
+        "police_total": 3623,
+        "region": "Northeast",
+        "year": 2017
+    },
+    {
+        "name": "New Hampshire",
+        "income": "83854",
+        "police_total": 3689,
+        "region": "Northeast",
+        "year": 2018
+    },
+    {
+        "name": "New Hampshire",
+        "income": "87984",
+        "police_total": 3713,
+        "region": "Northeast",
+        "year": 2019
+    },
+    {
+        "name": "New Hampshire",
+        "income": "88235",
+        "police_total": 3718,
+        "region": "Northeast",
+        "year": 2020
+    }
+]

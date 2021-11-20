@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Alabama",
+        "income": "49123",
+        "police_total": 16185,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Alabama",
+        "income": "49092",
+        "police_total": 12745,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Alabama",
+        "income": "52667",
+        "police_total": 14173,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Alabama",
+        "income": "46272",
+        "police_total": 11455,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Alabama",
+        "income": "48629",
+        "police_total": 13079,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Alabama",
+        "income": "50936",
+        "police_total": 10418,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Alabama",
+        "income": "53711",
+        "police_total": 8064,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Alabama",
+        "income": "51475",
+        "police_total": 15859,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Alabama",
+        "income": "56901",
+        "police_total": 16185,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Alabama",
+        "income": "54393",
+        "police_total": 17986,
+        "region": "South",
+        "year": 2020
+    }
+]

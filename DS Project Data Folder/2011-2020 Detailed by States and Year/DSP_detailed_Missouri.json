@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Missouri",
+        "income": "52796",
+        "police_total": 20158,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "Missouri",
+        "income": "56208",
+        "police_total": 19487,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "Missouri",
+        "income": "51535",
+        "police_total": 20093,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "Missouri",
+        "income": "61979",
+        "police_total": 20309,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "Missouri",
+        "income": "64676",
+        "police_total": 20046,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "Missouri",
+        "income": "59344",
+        "police_total": 20359,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "Missouri",
+        "income": "59693",
+        "police_total": 20574,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "Missouri",
+        "income": "63629",
+        "police_total": 20223,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "Missouri",
+        "income": "61353",
+        "police_total": 20570,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "Missouri",
+        "income": "61901",
+        "police_total": 16375,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

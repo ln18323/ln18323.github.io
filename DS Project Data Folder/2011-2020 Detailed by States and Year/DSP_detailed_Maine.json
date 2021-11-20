@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Maine",
+        "income": "57316",
+        "police_total": 2835,
+        "region": "Northeast",
+        "year": 2011
+    },
+    {
+        "name": "Maine",
+        "income": "55523",
+        "police_total": 2826,
+        "region": "Northeast",
+        "year": 2012
+    },
+    {
+        "name": "Maine",
+        "income": "61167",
+        "police_total": 2806,
+        "region": "Northeast",
+        "year": 2013
+    },
+    {
+        "name": "Maine",
+        "income": "56594",
+        "police_total": 2815,
+        "region": "Northeast",
+        "year": 2014
+    },
+    {
+        "name": "Maine",
+        "income": "55455",
+        "police_total": 2885,
+        "region": "Northeast",
+        "year": 2015
+    },
+    {
+        "name": "Maine",
+        "income": "54857",
+        "police_total": 2866,
+        "region": "Northeast",
+        "year": 2016
+    },
+    {
+        "name": "Maine",
+        "income": "56299",
+        "police_total": 2905,
+        "region": "Northeast",
+        "year": 2017
+    },
+    {
+        "name": "Maine",
+        "income": "60471",
+        "police_total": 2932,
+        "region": "Northeast",
+        "year": 2018
+    },
+    {
+        "name": "Maine",
+        "income": "67377",
+        "police_total": 2757,
+        "region": "Northeast",
+        "year": 2019
+    },
+    {
+        "name": "Maine",
+        "income": "63440",
+        "police_total": 2937,
+        "region": "Northeast",
+        "year": 2020
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "North Carolina",
+        "income": "52141",
+        "police_total": 33061,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "North Carolina",
+        "income": "46933",
+        "police_total": 33353,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "North Carolina",
+        "income": "51573",
+        "police_total": 33505,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "North Carolina",
+        "income": "51203",
+        "police_total": 34520,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "North Carolina",
+        "income": "55500",
+        "police_total": 34225,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "North Carolina",
+        "income": "57993",
+        "police_total": 34778,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "North Carolina",
+        "income": "52319",
+        "police_total": 35092,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "North Carolina",
+        "income": "55014",
+        "police_total": 34337,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "North Carolina",
+        "income": "61922",
+        "police_total": 34248,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "North Carolina",
+        "income": "60266",
+        "police_total": 34840,
+        "region": "South",
+        "year": 2020
+    }
+]

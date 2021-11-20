@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Georgia",
+        "income": "53025",
+        "police_total": 34432,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Georgia",
+        "income": "54352",
+        "police_total": 34769,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Georgia",
+        "income": "52302",
+        "police_total": 29070,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Georgia",
+        "income": "54236",
+        "police_total": 28985,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Georgia",
+        "income": "55468",
+        "police_total": 26594,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Georgia",
+        "income": "57738",
+        "police_total": 27461,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Georgia",
+        "income": "61230",
+        "police_total": 32195,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Georgia",
+        "income": "57542",
+        "police_total": 36843,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Georgia",
+        "income": "57335",
+        "police_total": 29582,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Georgia",
+        "income": "58952",
+        "police_total": 34532,
+        "region": "South",
+        "year": 2020
+    }
+]

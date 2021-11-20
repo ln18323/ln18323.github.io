@@ -1,0 +1,72 @@
+[
+    {
+        "name": "California",
+        "income": "61554",
+        "police_total": 116993,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "California",
+        "income": "64403",
+        "police_total": 117269,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "California",
+        "income": "67663",
+        "police_total": 117322,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "California",
+        "income": "66201",
+        "police_total": 118715,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "California",
+        "income": "69527",
+        "police_total": 118630,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "California",
+        "income": "71879",
+        "police_total": 119191,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "California",
+        "income": "73957",
+        "police_total": 119684,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "California",
+        "income": "72662",
+        "police_total": 120041,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "California",
+        "income": "79080",
+        "police_total": 121251,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "California",
+        "income": "77358",
+        "police_total": 120756,
+        "region": "West",
+        "year": 2020
+    }
+]

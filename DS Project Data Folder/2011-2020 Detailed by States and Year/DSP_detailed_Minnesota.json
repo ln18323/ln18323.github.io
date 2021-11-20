@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Minnesota",
+        "income": "66690",
+        "police_total": 13409,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "Minnesota",
+        "income": "69796",
+        "police_total": 13476,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "Minnesota",
+        "income": "71592",
+        "police_total": 13348,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "Minnesota",
+        "income": "73596",
+        "police_total": 13599,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "Minnesota",
+        "income": "75093",
+        "police_total": 13936,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "Minnesota",
+        "income": "75742",
+        "police_total": 14368,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "Minnesota",
+        "income": "73890",
+        "police_total": 14854,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "Minnesota",
+        "income": "74031",
+        "police_total": 15264,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "Minnesota",
+        "income": "82443",
+        "police_total": 15960,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "Minnesota",
+        "income": "78461",
+        "police_total": 15530,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

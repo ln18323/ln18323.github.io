@@ -1,0 +1,72 @@
+[
+    {
+        "name": "New Mexico",
+        "income": "48422",
+        "police_total": 6181,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "New Mexico",
+        "income": "49047",
+        "police_total": 6023,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "New Mexico",
+        "income": "44704",
+        "police_total": 776,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "New Mexico",
+        "income": "51096",
+        "police_total": 4780,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "New Mexico",
+        "income": "49296",
+        "police_total": 1419,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "New Mexico",
+        "income": "52262",
+        "police_total": 4429,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "New Mexico",
+        "income": "48153",
+        "police_total": 4208,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "New Mexico",
+        "income": "49771",
+        "police_total": 3877,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "New Mexico",
+        "income": "53776",
+        "police_total": 2705,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "New Mexico",
+        "income": "50822",
+        "police_total": 1428,
+        "region": "West",
+        "year": 2020
+    }
+]

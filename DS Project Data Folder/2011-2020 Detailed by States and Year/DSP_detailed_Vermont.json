@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Vermont",
+        "income": "59818",
+        "police_total": 1515,
+        "region": "Northeast",
+        "year": 2011
+    },
+    {
+        "name": "Vermont",
+        "income": "62779",
+        "police_total": 1677,
+        "region": "Northeast",
+        "year": 2012
+    },
+    {
+        "name": "Vermont",
+        "income": "72915",
+        "police_total": 1575,
+        "region": "Northeast",
+        "year": 2013
+    },
+    {
+        "name": "Vermont",
+        "income": "66442",
+        "police_total": 1489,
+        "region": "Northeast",
+        "year": 2014
+    },
+    {
+        "name": "Vermont",
+        "income": "65002",
+        "police_total": 1448,
+        "region": "Northeast",
+        "year": 2015
+    },
+    {
+        "name": "Vermont",
+        "income": "65623",
+        "police_total": 1450,
+        "region": "Northeast",
+        "year": 2016
+    },
+    {
+        "name": "Vermont",
+        "income": "67245",
+        "police_total": 1487,
+        "region": "Northeast",
+        "year": 2017
+    },
+    {
+        "name": "Vermont",
+        "income": "72226",
+        "police_total": 1815,
+        "region": "Northeast",
+        "year": 2018
+    },
+    {
+        "name": "Vermont",
+        "income": "75233",
+        "police_total": 1767,
+        "region": "Northeast",
+        "year": 2019
+    },
+    {
+        "name": "Vermont",
+        "income": "66902",
+        "police_total": 1645,
+        "region": "Northeast",
+        "year": 2020
+    }
+]

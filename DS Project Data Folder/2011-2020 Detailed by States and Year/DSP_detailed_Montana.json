@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Montana",
+        "income": "46456",
+        "police_total": 3022,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "Montana",
+        "income": "50926",
+        "police_total": 2405,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "Montana",
+        "income": "48082",
+        "police_total": 2542,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "Montana",
+        "income": "55929",
+        "police_total": 2021,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "Montana",
+        "income": "56153",
+        "police_total": 3153,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "Montana",
+        "income": "61565",
+        "police_total": 2842,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "Montana",
+        "income": "60619",
+        "police_total": 3033,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "Montana",
+        "income": "59457",
+        "police_total": 3029,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "Montana",
+        "income": "60946",
+        "police_total": 3264,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "Montana",
+        "income": "56442",
+        "police_total": 3521,
+        "region": "West",
+        "year": 2020
+    }
+]

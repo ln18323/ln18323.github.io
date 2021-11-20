@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Connecticut",
+        "income": "75450",
+        "police_total": 10254,
+        "region": "Northeast",
+        "year": 2011
+    },
+    {
+        "name": "Connecticut",
+        "income": "72566",
+        "police_total": 10271,
+        "region": "Northeast",
+        "year": 2012
+    },
+    {
+        "name": "Connecticut",
+        "income": "77120",
+        "police_total": 10349,
+        "region": "Northeast",
+        "year": 2013
+    },
+    {
+        "name": "Connecticut",
+        "income": "76788",
+        "police_total": 10461,
+        "region": "Northeast",
+        "year": 2014
+    },
+    {
+        "name": "Connecticut",
+        "income": "79637",
+        "police_total": 9696,
+        "region": "Northeast",
+        "year": 2015
+    },
+    {
+        "name": "Connecticut",
+        "income": "81895",
+        "police_total": 9434,
+        "region": "Northeast",
+        "year": 2016
+    },
+    {
+        "name": "Connecticut",
+        "income": "78462",
+        "police_total": 8767,
+        "region": "Northeast",
+        "year": 2017
+    },
+    {
+        "name": "Connecticut",
+        "income": "75057",
+        "police_total": 9283,
+        "region": "Northeast",
+        "year": 2018
+    },
+    {
+        "name": "Connecticut",
+        "income": "88380",
+        "police_total": 8718,
+        "region": "Northeast",
+        "year": 2019
+    },
+    {
+        "name": "Connecticut",
+        "income": "79043",
+        "police_total": 9163,
+        "region": "Northeast",
+        "year": 2020
+    }
+]

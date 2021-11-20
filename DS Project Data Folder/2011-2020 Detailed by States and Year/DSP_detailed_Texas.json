@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Texas",
+        "income": "56571",
+        "police_total": 89839,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Texas",
+        "income": "58649",
+        "police_total": 72877,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Texas",
+        "income": "57215",
+        "police_total": 78457,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Texas",
+        "income": "58964",
+        "police_total": 61529,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Texas",
+        "income": "61701",
+        "police_total": 71811,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Texas",
+        "income": "62720",
+        "police_total": 83600,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Texas",
+        "income": "63454",
+        "police_total": 71236,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Texas",
+        "income": "61628",
+        "police_total": 70294,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Texas",
+        "income": "68286",
+        "police_total": 86760,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Texas",
+        "income": "68093",
+        "police_total": 97865,
+        "region": "South",
+        "year": 2020
+    }
+]

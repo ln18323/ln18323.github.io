@@ -1,0 +1,72 @@
+[
+    {
+        "name": "South Dakota",
+        "income": "54467",
+        "police_total": 2833,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "South Dakota",
+        "income": "55813",
+        "police_total": 2789,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "South Dakota",
+        "income": "59448",
+        "police_total": 2652,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "South Dakota",
+        "income": "58064",
+        "police_total": 2913,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "South Dakota",
+        "income": "60163",
+        "police_total": 2598,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "South Dakota",
+        "income": "61969",
+        "police_total": 2985,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "South Dakota",
+        "income": "60099",
+        "police_total": 2969,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "South Dakota",
+        "income": "61296",
+        "police_total": 3008,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "South Dakota",
+        "income": "65057",
+        "police_total": 2980,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "South Dakota",
+        "income": "69787",
+        "police_total": 3082,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

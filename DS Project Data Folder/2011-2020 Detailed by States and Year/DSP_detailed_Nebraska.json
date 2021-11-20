@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Nebraska",
+        "income": "64148",
+        "police_total": 4986,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "Nebraska",
+        "income": "58954",
+        "police_total": 4943,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "Nebraska",
+        "income": "64134",
+        "police_total": 4915,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "Nebraska",
+        "income": "62242",
+        "police_total": 5245,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "Nebraska",
+        "income": "66072",
+        "police_total": 5334,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "Nebraska",
+        "income": "64045",
+        "police_total": 5013,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "Nebraska",
+        "income": "62917",
+        "police_total": 4852,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "Nebraska",
+        "income": "69658",
+        "police_total": 5394,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "Nebraska",
+        "income": "73983",
+        "police_total": 5362,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "Nebraska",
+        "income": "72024",
+        "police_total": 5264,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

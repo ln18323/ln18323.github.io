@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Oklahoma",
+        "income": "55888",
+        "police_total": 11978,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Oklahoma",
+        "income": "54675",
+        "police_total": 12445,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Oklahoma",
+        "income": "51378",
+        "police_total": 12216,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Oklahoma",
+        "income": "51657",
+        "police_total": 10155,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Oklahoma",
+        "income": "51435",
+        "police_total": 11417,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Oklahoma",
+        "income": "54950",
+        "police_total": 12807,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Oklahoma",
+        "income": "54785",
+        "police_total": 12953,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Oklahoma",
+        "income": "56112",
+        "police_total": 13016,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Oklahoma",
+        "income": "60138",
+        "police_total": 13523,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Oklahoma",
+        "income": "52341",
+        "police_total": 13055,
+        "region": "South",
+        "year": 2020
+    }
+]

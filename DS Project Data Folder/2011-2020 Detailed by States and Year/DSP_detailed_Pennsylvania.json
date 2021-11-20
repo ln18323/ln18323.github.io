@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Pennsylvania",
+        "income": "57566",
+        "police_total": 31683,
+        "region": "Northeast",
+        "year": 2011
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "58625",
+        "police_total": 30201,
+        "region": "Northeast",
+        "year": 2012
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "61388",
+        "police_total": 30094,
+        "region": "Northeast",
+        "year": 2013
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "60385",
+        "police_total": 29478,
+        "region": "Northeast",
+        "year": 2014
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "65980",
+        "police_total": 30691,
+        "region": "Northeast",
+        "year": 2015
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "65776",
+        "police_total": 30890,
+        "region": "Northeast",
+        "year": 2016
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "64714",
+        "police_total": 30734,
+        "region": "Northeast",
+        "year": 2017
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "66513",
+        "police_total": 29206,
+        "region": "Northeast",
+        "year": 2018
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "71463",
+        "police_total": 30520,
+        "region": "Northeast",
+        "year": 2019
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "70117",
+        "police_total": 30483,
+        "region": "Northeast",
+        "year": 2020
+    }
+]

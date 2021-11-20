@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Maryland",
+        "income": "79442",
+        "police_total": 20453,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Maryland",
+        "income": "81137",
+        "police_total": 20117,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Maryland",
+        "income": "77189",
+        "police_total": 22726,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Maryland",
+        "income": "83359",
+        "police_total": 20745,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Maryland",
+        "income": "80407",
+        "police_total": 22849,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Maryland",
+        "income": "79562",
+        "police_total": 22580,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Maryland",
+        "income": "86687",
+        "police_total": 21902,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Maryland",
+        "income": "88881",
+        "police_total": 22114,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Maryland",
+        "income": "96765",
+        "police_total": 22507,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Maryland",
+        "income": "94384",
+        "police_total": 22254,
+        "region": "South",
+        "year": 2020
+    }
+]

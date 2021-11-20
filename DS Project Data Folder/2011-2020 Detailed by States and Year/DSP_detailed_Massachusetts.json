@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Massachusetts",
+        "income": "73025",
+        "police_total": 19771,
+        "region": "Northeast",
+        "year": 2011
+    },
+    {
+        "name": "Massachusetts",
+        "income": "71898",
+        "police_total": 19282,
+        "region": "Northeast",
+        "year": 2012
+    },
+    {
+        "name": "Massachusetts",
+        "income": "69594",
+        "police_total": 19651,
+        "region": "Northeast",
+        "year": 2013
+    },
+    {
+        "name": "Massachusetts",
+        "income": "69116",
+        "police_total": 20036,
+        "region": "Northeast",
+        "year": 2014
+    },
+    {
+        "name": "Massachusetts",
+        "income": "74143",
+        "police_total": 20663,
+        "region": "Northeast",
+        "year": 2015
+    },
+    {
+        "name": "Massachusetts",
+        "income": "77951",
+        "police_total": 20215,
+        "region": "Northeast",
+        "year": 2016
+    },
+    {
+        "name": "Massachusetts",
+        "income": "80509",
+        "police_total": 20111,
+        "region": "Northeast",
+        "year": 2017
+    },
+    {
+        "name": "Massachusetts",
+        "income": "89007",
+        "police_total": 20340,
+        "region": "Northeast",
+        "year": 2018
+    },
+    {
+        "name": "Massachusetts",
+        "income": "88802",
+        "police_total": 20099,
+        "region": "Northeast",
+        "year": 2019
+    },
+    {
+        "name": "Massachusetts",
+        "income": "86725",
+        "police_total": 20521,
+        "region": "Northeast",
+        "year": 2020
+    }
+]

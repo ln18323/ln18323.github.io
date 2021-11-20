@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Hawaii",
+        "income": "68105",
+        "police_total": 3733,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "Hawaii",
+        "income": "63548",
+        "police_total": 3720,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "Hawaii",
+        "income": "71493",
+        "police_total": 3658,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "Hawaii",
+        "income": "77951",
+        "police_total": 3776,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "Hawaii",
+        "income": "70486",
+        "police_total": 3765,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "Hawaii",
+        "income": "77807",
+        "police_total": 3779,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "Hawaii",
+        "income": "77717",
+        "police_total": 3729,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "Hawaii",
+        "income": "82578",
+        "police_total": 3624,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "Hawaii",
+        "income": "89105",
+        "police_total": 3532,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "Hawaii",
+        "income": "80729",
+        "police_total": 3698,
+        "region": "West",
+        "year": 2020
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "The United States",
+        "income": "57732",
+        "police_total": 20451.0,
+        "region": "USA",
+        "year": 2011
+    },
+    {
+        "name": "The United States",
+        "income": "57623",
+        "police_total": 19148.0,
+        "region": "USA",
+        "year": 2012
+    },
+    {
+        "name": "The United States",
+        "income": "59640",
+        "police_total": 18045.0,
+        "region": "USA",
+        "year": 2013
+    },
+    {
+        "name": "The United States",
+        "income": "58725",
+        "police_total": 18151.0,
+        "region": "USA",
+        "year": 2014
+    },
+    {
+        "name": "The United States",
+        "income": "61748",
+        "police_total": 18234.0,
+        "region": "USA",
+        "year": 2015
+    },
+    {
+        "name": "The United States",
+        "income": "63683",
+        "police_total": 18741.0,
+        "region": "USA",
+        "year": 2016
+    },
+    {
+        "name": "The United States",
+        "income": "64557",
+        "police_total": 18844.0,
+        "region": "USA",
+        "year": 2017
+    },
+    {
+        "name": "The United States",
+        "income": "65127",
+        "police_total": 19593.0,
+        "region": "USA",
+        "year": 2018
+    },
+    {
+        "name": "The United States",
+        "income": "69560",
+        "police_total": 20028.0,
+        "region": "USA",
+        "year": 2019
+    },
+    {
+        "name": "The United States",
+        "income": "67521",
+        "police_total": 20204.0,
+        "region": "USA",
+        "year": 2020
+    }
+]

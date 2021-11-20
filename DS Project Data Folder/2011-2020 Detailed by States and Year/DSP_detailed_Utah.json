@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Utah",
+        "income": "64006",
+        "police_total": 6965,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "Utah",
+        "income": "65895",
+        "police_total": 7042,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "Utah",
+        "income": "67945",
+        "police_total": 4776,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "Utah",
+        "income": "69370",
+        "police_total": 7018,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "Utah",
+        "income": "72392",
+        "police_total": 7157,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "Utah",
+        "income": "72789",
+        "police_total": 7188,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "Utah",
+        "income": "73694",
+        "police_total": 7194,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "Utah",
+        "income": "79443",
+        "police_total": 7237,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "Utah",
+        "income": "85578",
+        "police_total": 7616,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "Utah",
+        "income": "83670",
+        "police_total": 8006,
+        "region": "West",
+        "year": 2020
+    }
+]

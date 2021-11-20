@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Oregon",
+        "income": "59430",
+        "police_total": 31063,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "Oregon",
+        "income": "58479",
+        "police_total": 9918,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "Oregon",
+        "income": "54536",
+        "police_total": 9787,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "Oregon",
+        "income": "64436",
+        "police_total": 10312,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "Oregon",
+        "income": "66466",
+        "police_total": 10571,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "Oregon",
+        "income": "63787",
+        "police_total": 9920,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "Oregon",
+        "income": "65995",
+        "police_total": 10729,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "Oregon",
+        "income": "71297",
+        "police_total": 10775,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "Oregon",
+        "income": "75342",
+        "police_total": 10846,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "Oregon",
+        "income": "76554",
+        "police_total": 10938,
+        "region": "West",
+        "year": 2020
+    }
+]

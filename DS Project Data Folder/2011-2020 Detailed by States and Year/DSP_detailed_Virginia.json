@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Virginia",
+        "income": "72222",
+        "police_total": 23510,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Virginia",
+        "income": "73001",
+        "police_total": 23625,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Virginia",
+        "income": "73354",
+        "police_total": 23766,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Virginia",
+        "income": "72404",
+        "police_total": 23868,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Virginia",
+        "income": "67178",
+        "police_total": 24070,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Virginia",
+        "income": "71678",
+        "police_total": 23829,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Virginia",
+        "income": "74773",
+        "police_total": 24025,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Virginia",
+        "income": "79529",
+        "police_total": 24272,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Virginia",
+        "income": "82328",
+        "police_total": 24385,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Virginia",
+        "income": "81947",
+        "police_total": 25189,
+        "region": "South",
+        "year": 2020
+    }
+]

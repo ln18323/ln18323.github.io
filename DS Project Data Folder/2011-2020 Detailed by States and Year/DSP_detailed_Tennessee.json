@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Tennessee",
+        "income": "48765",
+        "police_total": 25784,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Tennessee",
+        "income": "48562",
+        "police_total": 26267,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Tennessee",
+        "income": "48260",
+        "police_total": 26564,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Tennessee",
+        "income": "47845",
+        "police_total": 26709,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Tennessee",
+        "income": "51712",
+        "police_total": 26722,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Tennessee",
+        "income": "55383",
+        "police_total": 26246,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Tennessee",
+        "income": "58401",
+        "police_total": 26765,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Tennessee",
+        "income": "57788",
+        "police_total": 27738,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Tennessee",
+        "income": "57334",
+        "police_total": 28201,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Tennessee",
+        "income": "54665",
+        "police_total": 28131,
+        "region": "South",
+        "year": 2020
+    }
+]

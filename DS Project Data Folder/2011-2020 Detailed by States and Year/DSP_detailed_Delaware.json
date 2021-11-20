@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Delaware",
+        "income": "63045",
+        "police_total": 3118,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Delaware",
+        "income": "55313",
+        "police_total": 3129,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Delaware",
+        "income": "60203",
+        "police_total": 3168,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Delaware",
+        "income": "62955",
+        "police_total": 3212,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Delaware",
+        "income": "63103",
+        "police_total": 3276,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Delaware",
+        "income": "62612",
+        "police_total": 3314,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Delaware",
+        "income": "68596",
+        "police_total": 2948,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Delaware",
+        "income": "67016",
+        "police_total": 3284,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Delaware",
+        "income": "75120",
+        "police_total": 3384,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Delaware",
+        "income": "69132",
+        "police_total": 3814,
+        "region": "South",
+        "year": 2020
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Wyoming",
+        "income": "62871",
+        "police_total": 2207,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "Wyoming",
+        "income": "64959",
+        "police_total": 2074,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "Wyoming",
+        "income": "75061",
+        "police_total": 2291,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "Wyoming",
+        "income": "60950",
+        "police_total": 1956,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "Wyoming",
+        "income": "66565",
+        "police_total": 1897,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "Wyoming",
+        "income": "62378",
+        "police_total": 1939,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "Wyoming",
+        "income": "62867",
+        "police_total": 2025,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "Wyoming",
+        "income": "64467",
+        "police_total": 2323,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "Wyoming",
+        "income": "65947",
+        "police_total": 2263,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "Wyoming",
+        "income": "65108",
+        "police_total": 2734,
+        "region": "West",
+        "year": 2020
+    }
+]

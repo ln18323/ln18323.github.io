@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Arizona",
+        "income": "56080",
+        "police_total": 20759,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "Arizona",
+        "income": "53135",
+        "police_total": 22999,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "Arizona",
+        "income": "58556",
+        "police_total": 21192,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "Arizona",
+        "income": "53906",
+        "police_total": 22817,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "Arizona",
+        "income": "57085",
+        "police_total": 22653,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "Arizona",
+        "income": "61592",
+        "police_total": 22270,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "Arizona",
+        "income": "63041",
+        "police_total": 22750,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "Arizona",
+        "income": "64203",
+        "police_total": 22600,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "Arizona",
+        "income": "71556",
+        "police_total": 23087,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "Arizona",
+        "income": "66628",
+        "police_total": 22526,
+        "region": "West",
+        "year": 2020
+    }
+]

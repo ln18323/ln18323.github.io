@@ -1,0 +1,72 @@
+[
+    {
+        "name": "South Carolina",
+        "income": "46233",
+        "police_total": 15689,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "South Carolina",
+        "income": "50150",
+        "police_total": 15228,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "South Carolina",
+        "income": "48485",
+        "police_total": 15050,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "South Carolina",
+        "income": "49173",
+        "police_total": 12732,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "South Carolina",
+        "income": "50652",
+        "police_total": 15943,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "South Carolina",
+        "income": "58610",
+        "police_total": 16565,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "South Carolina",
+        "income": "57589",
+        "police_total": 12699,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "South Carolina",
+        "income": "59215",
+        "police_total": 16840,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "South Carolina",
+        "income": "62803",
+        "police_total": 15990,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "South Carolina",
+        "income": "60097",
+        "police_total": 16452,
+        "region": "South",
+        "year": 2020
+    }
+]

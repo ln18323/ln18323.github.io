@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Alaska",
+        "income": "66241",
+        "police_total": 1990,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "Alaska",
+        "income": "71889",
+        "police_total": 1963,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "Alaska",
+        "income": "80661",
+        "police_total": 1937,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "Alaska",
+        "income": "74017",
+        "police_total": 1938,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "Alaska",
+        "income": "82066",
+        "police_total": 9,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "Alaska",
+        "income": "81680",
+        "police_total": 1938,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "Alaska",
+        "income": "82351",
+        "police_total": 1933,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "Alaska",
+        "income": "70853",
+        "police_total": 1985,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "Alaska",
+        "income": "79373",
+        "police_total": 1979,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "Alaska",
+        "income": "74476",
+        "police_total": 2002,
+        "region": "West",
+        "year": 2020
+    }
+]

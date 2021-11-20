@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Nevada",
+        "income": "54260",
+        "police_total": 8325,
+        "region": "West",
+        "year": 2011
+    },
+    {
+        "name": "Nevada",
+        "income": "53462",
+        "police_total": 9447,
+        "region": "West",
+        "year": 2012
+    },
+    {
+        "name": "Nevada",
+        "income": "57704",
+        "police_total": 8812,
+        "region": "West",
+        "year": 2013
+    },
+    {
+        "name": "Nevada",
+        "income": "54586",
+        "police_total": 8973,
+        "region": "West",
+        "year": 2014
+    },
+    {
+        "name": "Nevada",
+        "income": "56823",
+        "police_total": 9106,
+        "region": "West",
+        "year": 2015
+    },
+    {
+        "name": "Nevada",
+        "income": "59791",
+        "police_total": 9014,
+        "region": "West",
+        "year": 2016
+    },
+    {
+        "name": "Nevada",
+        "income": "61289",
+        "police_total": 9870,
+        "region": "West",
+        "year": 2017
+    },
+    {
+        "name": "Nevada",
+        "income": "63771",
+        "police_total": 9127,
+        "region": "West",
+        "year": 2018
+    },
+    {
+        "name": "Nevada",
+        "income": "71791",
+        "police_total": 7693,
+        "region": "West",
+        "year": 2019
+    },
+    {
+        "name": "Nevada",
+        "income": "60956",
+        "police_total": 10471,
+        "region": "West",
+        "year": 2020
+    }
+]

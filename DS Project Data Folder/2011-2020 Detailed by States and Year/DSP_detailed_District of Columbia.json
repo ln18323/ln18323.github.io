@@ -1,0 +1,72 @@
+[
+    {
+        "name": "District of Columbia",
+        "income": "63727",
+        "police_total": 4919,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "District of Columbia",
+        "income": "73694",
+        "police_total": 4976,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "District of Columbia",
+        "income": "66843",
+        "police_total": 5065,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "District of Columbia",
+        "income": "74726",
+        "police_total": 5050,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "District of Columbia",
+        "income": "76558",
+        "police_total": 5010,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "District of Columbia",
+        "income": "76566",
+        "police_total": 4852,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "District of Columbia",
+        "income": "85830",
+        "police_total": 4925,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "District of Columbia",
+        "income": "88393",
+        "police_total": 5145,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "District of Columbia",
+        "income": "94273",
+        "police_total": 5019,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "District of Columbia",
+        "income": "88311",
+        "police_total": 4975,
+        "region": "South",
+        "year": 2020
+    }
+]

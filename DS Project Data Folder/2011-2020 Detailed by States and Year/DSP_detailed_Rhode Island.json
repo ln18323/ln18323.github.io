@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Rhode Island",
+        "income": "56555",
+        "police_total": 3091,
+        "region": "Northeast",
+        "year": 2011
+    },
+    {
+        "name": "Rhode Island",
+        "income": "63324",
+        "police_total": 3045,
+        "region": "Northeast",
+        "year": 2012
+    },
+    {
+        "name": "Rhode Island",
+        "income": "62687",
+        "police_total": 3056,
+        "region": "Northeast",
+        "year": 2013
+    },
+    {
+        "name": "Rhode Island",
+        "income": "64171",
+        "police_total": 3126,
+        "region": "Northeast",
+        "year": 2014
+    },
+    {
+        "name": "Rhode Island",
+        "income": "60858",
+        "police_total": 3065,
+        "region": "Northeast",
+        "year": 2015
+    },
+    {
+        "name": "Rhode Island",
+        "income": "66368",
+        "police_total": 3098,
+        "region": "Northeast",
+        "year": 2016
+    },
+    {
+        "name": "Rhode Island",
+        "income": "69061",
+        "police_total": 3157,
+        "region": "Northeast",
+        "year": 2017
+    },
+    {
+        "name": "Rhode Island",
+        "income": "64186",
+        "police_total": 3113,
+        "region": "Northeast",
+        "year": 2018
+    },
+    {
+        "name": "Rhode Island",
+        "income": "71027",
+        "police_total": 3150,
+        "region": "Northeast",
+        "year": 2019
+    },
+    {
+        "name": "Rhode Island",
+        "income": "80012",
+        "police_total": 3122,
+        "region": "Northeast",
+        "year": 2020
+    }
+]

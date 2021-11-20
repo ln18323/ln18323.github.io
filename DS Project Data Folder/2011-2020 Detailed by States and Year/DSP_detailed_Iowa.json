@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Iowa",
+        "income": "57923",
+        "police_total": 7573,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "Iowa",
+        "income": "60362",
+        "police_total": 7375,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "Iowa",
+        "income": "66953",
+        "police_total": 7747,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "Iowa",
+        "income": "63271",
+        "police_total": 7782,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "Iowa",
+        "income": "66489",
+        "police_total": 8025,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "Iowa",
+        "income": "63743",
+        "police_total": 8187,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "Iowa",
+        "income": "67018",
+        "police_total": 8124,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "Iowa",
+        "income": "70836",
+        "police_total": 7530,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "Iowa",
+        "income": "66879",
+        "police_total": 8410,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "Iowa",
+        "income": "68469",
+        "police_total": 8316,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

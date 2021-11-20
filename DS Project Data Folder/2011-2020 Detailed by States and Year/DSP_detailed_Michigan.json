@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Michigan",
+        "income": "56377",
+        "police_total": 23765,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "Michigan",
+        "income": "56491",
+        "police_total": 23165,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "Michigan",
+        "income": "62959",
+        "police_total": 22669,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "Michigan",
+        "income": "56917",
+        "police_total": 23179,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "Michigan",
+        "income": "59221",
+        "police_total": 22926,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "Michigan",
+        "income": "61582",
+        "police_total": 23873,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "Michigan",
+        "income": "59561",
+        "police_total": 23852,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "Michigan",
+        "income": "62312",
+        "police_total": 24072,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "Michigan",
+        "income": "64920",
+        "police_total": 25063,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "Michigan",
+        "income": "63829",
+        "police_total": 24985,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

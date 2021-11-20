@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Indiana",
+        "income": "51263",
+        "police_total": 15943,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "Indiana",
+        "income": "52135",
+        "police_total": 12032,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "Indiana",
+        "income": "55043",
+        "police_total": 9703,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "Indiana",
+        "income": "52600",
+        "police_total": 11955,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "Indiana",
+        "income": "56795",
+        "police_total": 10809,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "Indiana",
+        "income": "60507",
+        "police_total": 7342,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "Indiana",
+        "income": "62055",
+        "police_total": 8783,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "Indiana",
+        "income": "61738",
+        "police_total": 12131,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "Indiana",
+        "income": "67526",
+        "police_total": 11135,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "Indiana",
+        "income": "66360",
+        "police_total": 11629,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

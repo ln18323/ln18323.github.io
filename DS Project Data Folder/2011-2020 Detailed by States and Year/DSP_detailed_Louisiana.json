@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Louisiana",
+        "income": "46895",
+        "police_total": 20593,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Louisiana",
+        "income": "44146",
+        "police_total": 19364,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Louisiana",
+        "income": "51671",
+        "police_total": 10987,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Louisiana",
+        "income": "46412",
+        "police_total": 14314,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Louisiana",
+        "income": "50173",
+        "police_total": 13245,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Louisiana",
+        "income": "45515",
+        "police_total": 20985,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Louisiana",
+        "income": "46003",
+        "police_total": 20046,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Louisiana",
+        "income": "51514",
+        "police_total": 18843,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Louisiana",
+        "income": "52352",
+        "police_total": 16413,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Louisiana",
+        "income": "50935",
+        "police_total": 8254,
+        "region": "South",
+        "year": 2020
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Mississippi",
+        "income": "47393",
+        "police_total": 6216,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Mississippi",
+        "income": "41385",
+        "police_total": 5662,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Mississippi",
+        "income": "35992",
+        "police_total": 4629,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Mississippi",
+        "income": "38876",
+        "police_total": 4162,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Mississippi",
+        "income": "43743",
+        "police_total": 4016,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Mississippi",
+        "income": "44332",
+        "police_total": 4142,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Mississippi",
+        "income": "45703",
+        "police_total": 3314,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Mississippi",
+        "income": "44100",
+        "police_total": 4263,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Mississippi",
+        "income": "45346",
+        "police_total": 4477,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Mississippi",
+        "income": "44966",
+        "police_total": 7826,
+        "region": "South",
+        "year": 2020
+    }
+]

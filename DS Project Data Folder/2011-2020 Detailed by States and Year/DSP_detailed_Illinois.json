@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Illinois",
+        "income": "58405",
+        "police_total": 46335,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "Illinois",
+        "income": "58437",
+        "police_total": 45503,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "Illinois",
+        "income": "60031",
+        "police_total": 14563,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "Illinois",
+        "income": "60103",
+        "police_total": 34425,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "Illinois",
+        "income": "66006",
+        "police_total": 22642,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "Illinois",
+        "income": "66215",
+        "police_total": 33727,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "Illinois",
+        "income": "69660",
+        "police_total": 35310,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "Illinois",
+        "income": "72307",
+        "police_total": 36750,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "Illinois",
+        "income": "75328",
+        "police_total": 40052,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "Illinois",
+        "income": "73753",
+        "police_total": 36424,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Florida",
+        "income": "52024",
+        "police_total": 71949,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Florida",
+        "income": "52036",
+        "police_total": 65683,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Florida",
+        "income": "54016",
+        "police_total": 67919,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Florida",
+        "income": "50498",
+        "police_total": 64023,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Florida",
+        "income": "53345",
+        "police_total": 58280,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Florida",
+        "income": "55202",
+        "police_total": 66148,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Florida",
+        "income": "56056",
+        "police_total": 74347,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Florida",
+        "income": "56329",
+        "police_total": 73678,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Florida",
+        "income": "59097",
+        "police_total": 74949,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Florida",
+        "income": "57435",
+        "police_total": 74207,
+        "region": "South",
+        "year": 2020
+    }
+]

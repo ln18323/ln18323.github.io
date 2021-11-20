@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Arkansas",
+        "income": "47638",
+        "police_total": 9074,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Arkansas",
+        "income": "44070",
+        "police_total": 9137,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Arkansas",
+        "income": "43825",
+        "police_total": 9250,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Arkansas",
+        "income": "49165",
+        "police_total": 9361,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Arkansas",
+        "income": "46760",
+        "police_total": 9352,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Arkansas",
+        "income": "49518",
+        "police_total": 9517,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Arkansas",
+        "income": "52535",
+        "police_total": 9530,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Arkansas",
+        "income": "51316",
+        "police_total": 10628,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Arkansas",
+        "income": "55220",
+        "police_total": 10877,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Arkansas",
+        "income": "50540",
+        "police_total": 10443,
+        "region": "South",
+        "year": 2020
+    }
+]

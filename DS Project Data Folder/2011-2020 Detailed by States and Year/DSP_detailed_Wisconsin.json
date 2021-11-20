@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Wisconsin",
+        "income": "60044",
+        "police_total": 18968,
+        "region": "Midwest",
+        "year": 2011
+    },
+    {
+        "name": "Wisconsin",
+        "income": "59952",
+        "police_total": 18638,
+        "region": "Midwest",
+        "year": 2012
+    },
+    {
+        "name": "Wisconsin",
+        "income": "57571",
+        "police_total": 17989,
+        "region": "Midwest",
+        "year": 2013
+    },
+    {
+        "name": "Wisconsin",
+        "income": "63566",
+        "police_total": 18284,
+        "region": "Midwest",
+        "year": 2014
+    },
+    {
+        "name": "Wisconsin",
+        "income": "60556",
+        "police_total": 18474,
+        "region": "Midwest",
+        "year": 2015
+    },
+    {
+        "name": "Wisconsin",
+        "income": "64522",
+        "police_total": 18165,
+        "region": "Midwest",
+        "year": 2016
+    },
+    {
+        "name": "Wisconsin",
+        "income": "67034",
+        "police_total": 18450,
+        "region": "Midwest",
+        "year": 2017
+    },
+    {
+        "name": "Wisconsin",
+        "income": "64560",
+        "police_total": 18021,
+        "region": "Midwest",
+        "year": 2018
+    },
+    {
+        "name": "Wisconsin",
+        "income": "68196",
+        "police_total": 18820,
+        "region": "Midwest",
+        "year": 2019
+    },
+    {
+        "name": "Wisconsin",
+        "income": "67094",
+        "police_total": 17617,
+        "region": "Midwest",
+        "year": 2020
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Kentucky",
+        "income": "45970",
+        "police_total": 9063,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "Kentucky",
+        "income": "46406",
+        "police_total": 9729,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "Kentucky",
+        "income": "49950",
+        "police_total": 9120,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "Kentucky",
+        "income": "46828",
+        "police_total": 9313,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "Kentucky",
+        "income": "46311",
+        "police_total": 7730,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "Kentucky",
+        "income": "48938",
+        "police_total": 4972,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "Kentucky",
+        "income": "52451",
+        "police_total": 9803,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "Kentucky",
+        "income": "56237",
+        "police_total": 9665,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "Kentucky",
+        "income": "56357",
+        "police_total": 9585,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "Kentucky",
+        "income": "56525",
+        "police_total": 9697,
+        "region": "South",
+        "year": 2020
+    }
+]

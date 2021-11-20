@@ -1,0 +1,72 @@
+[
+    {
+        "name": "West Virginia",
+        "income": "48237",
+        "police_total": 4417,
+        "region": "South",
+        "year": 2011
+    },
+    {
+        "name": "West Virginia",
+        "income": "49192",
+        "police_total": 4475,
+        "region": "South",
+        "year": 2012
+    },
+    {
+        "name": "West Virginia",
+        "income": "47935",
+        "police_total": 4496,
+        "region": "South",
+        "year": 2013
+    },
+    {
+        "name": "West Virginia",
+        "income": "43288",
+        "police_total": 4708,
+        "region": "South",
+        "year": 2014
+    },
+    {
+        "name": "West Virginia",
+        "income": "46789",
+        "police_total": 4708,
+        "region": "South",
+        "year": 2015
+    },
+    {
+        "name": "West Virginia",
+        "income": "47843",
+        "police_total": 4730,
+        "region": "South",
+        "year": 2016
+    },
+    {
+        "name": "West Virginia",
+        "income": "49585",
+        "police_total": 4689,
+        "region": "South",
+        "year": 2017
+    },
+    {
+        "name": "West Virginia",
+        "income": "52132",
+        "police_total": 5159,
+        "region": "South",
+        "year": 2018
+    },
+    {
+        "name": "West Virginia",
+        "income": "54376",
+        "police_total": 5176,
+        "region": "South",
+        "year": 2019
+    },
+    {
+        "name": "West Virginia",
+        "income": "51615",
+        "police_total": 5195,
+        "region": "South",
+        "year": 2020
+    }
+]

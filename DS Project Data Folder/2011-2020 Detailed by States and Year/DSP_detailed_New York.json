@@ -1,0 +1,72 @@
+[
+    {
+        "name": "New York",
+        "income": "58404",
+        "police_total": 81888,
+        "region": "Northeast",
+        "year": 2011
+    },
+    {
+        "name": "New York",
+        "income": "53854",
+        "police_total": 79415,
+        "region": "Northeast",
+        "year": 2012
+    },
+    {
+        "name": "New York",
+        "income": "55612",
+        "police_total": 80143,
+        "region": "Northeast",
+        "year": 2013
+    },
+    {
+        "name": "New York",
+        "income": "59440",
+        "police_total": 78592,
+        "region": "Northeast",
+        "year": 2014
+    },
+    {
+        "name": "New York",
+        "income": "63375",
+        "police_total": 81093,
+        "region": "Northeast",
+        "year": 2015
+    },
+    {
+        "name": "New York",
+        "income": "66270",
+        "police_total": 83242,
+        "region": "Northeast",
+        "year": 2016
+    },
+    {
+        "name": "New York",
+        "income": "64987",
+        "police_total": 83642,
+        "region": "Northeast",
+        "year": 2017
+    },
+    {
+        "name": "New York",
+        "income": "69348",
+        "police_total": 84209,
+        "region": "Northeast",
+        "year": 2018
+    },
+    {
+        "name": "New York",
+        "income": "72752",
+        "police_total": 84109,
+        "region": "Northeast",
+        "year": 2019
+    },
+    {
+        "name": "New York",
+        "income": "68304",
+        "police_total": 79057,
+        "region": "Northeast",
+        "year": 2020
+    }
+]
