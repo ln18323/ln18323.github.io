@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Alabama",
+        "police_total": 16185
+    },
+    {
+        "name": "Alaska",
+        "police_total": 1990
+    },
+    {
+        "name": "Arizona",
+        "police_total": 20759
+    },
+    {
+        "name": "Arkansas",
+        "police_total": 9074
+    },
+    {
+        "name": "California",
+        "police_total": 116993
+    },
+    {
+        "name": "Colorado",
+        "police_total": 16700
+    },
+    {
+        "name": "Connecticut",
+        "police_total": 10254
+    },
+    {
+        "name": "Delaware",
+        "police_total": 3118
+    },
+    {
+        "name": "District of Columbia",
+        "police_total": 4919
+    },
+    {
+        "name": "Florida",
+        "police_total": 71949
+    },
+    {
+        "name": "Georgia",
+        "police_total": 34432
+    },
+    {
+        "name": "Hawaii",
+        "police_total": 3733
+    },
+    {
+        "name": "Idaho",
+        "police_total": 4251
+    },
+    {
+        "name": "Illinois",
+        "police_total": 46335
+    },
+    {
+        "name": "Indiana",
+        "police_total": 15943
+    },
+    {
+        "name": "Iowa",
+        "police_total": 7573
+    },
+    {
+        "name": "Kansas",
+        "police_total": 10058
+    },
+    {
+        "name": "Kentucky",
+        "police_total": 9063
+    },
+    {
+        "name": "Louisiana",
+        "police_total": 20593
+    },
+    {
+        "name": "Maine",
+        "police_total": 2835
+    },
+    {
+        "name": "Maryland",
+        "police_total": 20453
+    },
+    {
+        "name": "Massachusetts",
+        "police_total": 19771
+    },
+    {
+        "name": "Michigan",
+        "police_total": 23765
+    },
+    {
+        "name": "Minnesota",
+        "police_total": 13409
+    },
+    {
+        "name": "Mississippi",
+        "police_total": 6216
+    },
+    {
+        "name": "Missouri",
+        "police_total": 20158
+    },
+    {
+        "name": "Montana",
+        "police_total": 3022
+    },
+    {
+        "name": "Nebraska",
+        "police_total": 4986
+    },
+    {
+        "name": "Nevada",
+        "police_total": 8325
+    },
+    {
+        "name": "New Hampshire",
+        "police_total": 3473
+    },
+    {
+        "name": "New Jersey",
+        "police_total": 36854
+    },
+    {
+        "name": "New Mexico",
+        "police_total": 6181
+    },
+    {
+        "name": "New York",
+        "police_total": 81888
+    },
+    {
+        "name": "North Carolina",
+        "police_total": 33061
+    },
+    {
+        "name": "North Dakota",
+        "police_total": 1864
+    },
+    {
+        "name": "Ohio",
+        "police_total": 30002
+    },
+    {
+        "name": "Oklahoma",
+        "police_total": 11978
+    },
+    {
+        "name": "Oregon",
+        "police_total": 31063
+    },
+    {
+        "name": "Pennsylvania",
+        "police_total": 31683
+    },
+    {
+        "name": "Rhode Island",
+        "police_total": 3091
+    },
+    {
+        "name": "South Carolina",
+        "police_total": 15689
+    },
+    {
+        "name": "South Dakota",
+        "police_total": 2833
+    },
+    {
+        "name": "Tennessee",
+        "police_total": 25784
+    },
+    {
+        "name": "Texas",
+        "police_total": 89839
+    },
+    {
+        "name": "Utah",
+        "police_total": 6965
+    },
+    {
+        "name": "Vermont",
+        "police_total": 1515
+    },
+    {
+        "name": "Virginia",
+        "police_total": 23510
+    },
+    {
+        "name": "Washington",
+        "police_total": 14317
+    },
+    {
+        "name": "West Virginia",
+        "police_total": 4417
+    },
+    {
+        "name": "Wisconsin",
+        "police_total": 18968
+    },
+    {
+        "name": "Wyoming",
+        "police_total": 2207
+    }
+]
