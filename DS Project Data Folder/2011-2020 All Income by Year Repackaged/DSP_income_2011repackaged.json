@@ -1,0 +1,210 @@
+[
+    {
+        "name": "The United States",
+        "income": "57732"
+    },
+    {
+        "name": "Alabama",
+        "income": "49123"
+    },
+    {
+        "name": "Alaska",
+        "income": "66241"
+    },
+    {
+        "name": "Arizona",
+        "income": "56080"
+    },
+    {
+        "name": "Arkansas",
+        "income": "47638"
+    },
+    {
+        "name": "California",
+        "income": "61554"
+    },
+    {
+        "name": "Colorado",
+        "income": "67623"
+    },
+    {
+        "name": "Connecticut",
+        "income": "75450"
+    },
+    {
+        "name": "Delaware",
+        "income": "63045"
+    },
+    {
+        "name": "District of Columbia",
+        "income": "63727"
+    },
+    {
+        "name": "Florida",
+        "income": "52024"
+    },
+    {
+        "name": "Georgia",
+        "income": "53025"
+    },
+    {
+        "name": "Hawaii",
+        "income": "68105"
+    },
+    {
+        "name": "Idaho",
+        "income": "54739"
+    },
+    {
+        "name": "Illinois",
+        "income": "58405"
+    },
+    {
+        "name": "Indiana",
+        "income": "51263"
+    },
+    {
+        "name": "Iowa",
+        "income": "57923"
+    },
+    {
+        "name": "Kansas",
+        "income": "53226"
+    },
+    {
+        "name": "Kentucky",
+        "income": "45970"
+    },
+    {
+        "name": "Louisiana",
+        "income": "46895"
+    },
+    {
+        "name": "Maine",
+        "income": "57316"
+    },
+    {
+        "name": "Maryland",
+        "income": "79442"
+    },
+    {
+        "name": "Massachusetts",
+        "income": "73025"
+    },
+    {
+        "name": "Michigan",
+        "income": "56377"
+    },
+    {
+        "name": "Minnesota",
+        "income": "66690"
+    },
+    {
+        "name": "Mississippi",
+        "income": "47393"
+    },
+    {
+        "name": "Missouri",
+        "income": "52796"
+    },
+    {
+        "name": "Montana",
+        "income": "46456"
+    },
+    {
+        "name": "Nebraska",
+        "income": "64148"
+    },
+    {
+        "name": "Nevada",
+        "income": "54260"
+    },
+    {
+        "name": "New Hampshire",
+        "income": "75986"
+    },
+    {
+        "name": "New Jersey",
+        "income": "71901"
+    },
+    {
+        "name": "New Mexico",
+        "income": "48422"
+    },
+    {
+        "name": "New York",
+        "income": "58404"
+    },
+    {
+        "name": "North Carolina",
+        "income": "52141"
+    },
+    {
+        "name": "North Dakota",
+        "income": "65007"
+    },
+    {
+        "name": "Ohio",
+        "income": "51497"
+    },
+    {
+        "name": "Oklahoma",
+        "income": "55888"
+    },
+    {
+        "name": "Oregon",
+        "income": "59430"
+    },
+    {
+        "name": "Pennsylvania",
+        "income": "57566"
+    },
+    {
+        "name": "Rhode Island",
+        "income": "56555"
+    },
+    {
+        "name": "South Carolina",
+        "income": "46233"
+    },
+    {
+        "name": "South Dakota",
+        "income": "54467"
+    },
+    {
+        "name": "Tennessee",
+        "income": "48765"
+    },
+    {
+        "name": "Texas",
+        "income": "56571"
+    },
+    {
+        "name": "Utah",
+        "income": "64006"
+    },
+    {
+        "name": "Vermont",
+        "income": "59818"
+    },
+    {
+        "name": "Virginia",
+        "income": "72222"
+    },
+    {
+        "name": "Washington",
+        "income": "65571"
+    },
+    {
+        "name": "West Virginia",
+        "income": "48237"
+    },
+    {
+        "name": "Wisconsin",
+        "income": "60044"
+    },
+    {
+        "name": "Wyoming",
+        "income": "62871"
+    }
+]
