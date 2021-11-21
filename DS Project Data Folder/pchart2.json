@@ -1,0 +1,64 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Multi-series line chart with labels and interactive highlight on hover.  We also set the selection's initial value to provide a better screenshot",
+    "title": {
+      "text": "The 3 U.S. states with greatest police force",
+      "subtitle": "This is an intereactive chart that the Cases of Offense appear when hovered to the corresponding Line",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "middle",
+      "color": "black"
+    },
+    "data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Offense%20Arrest%203Cities.csv"},
+    "width": 250,
+    "height": 300,
+  "layer":[{
+    "encoding": {
+      "x": {"field": "year", "type": "temporal", "title": "Year"},
+      "y": {"field": "arrest", "type": "quantitative", "title": "Cases of Offense (Bar charted)"},
+      "color": {
+        "condition": {
+          "param": "hover",
+          "field":"name",
+          "type":"nominal",
+          "legend": "right",
+          "title": "State"
+        },
+        "value": "grey"
+      },
+      "opacity": {
+        "condition": {
+          "param": "hover",
+          "value": 0.5
+        },
+        "value": 0.2
+      }
+    },
+    "layer": [{
+      "description": "transparent layer to make it easier to trigger selection",
+      "params": [{
+        "name": "hover",
+        "value": [{"name": "New York"}],
+        "select": {
+          "type": "point",
+          "fields": ["name"],
+          "on": "mouseover"
+        }
+      }],
+      "mark": {"type": "line", "strokeWidth": 8, "stroke": "transparent"}
+    }, {
+      "mark": "bar"
+    }]},
+    {"mark": {"type": "line","point": {
+        "filled": false,
+        "fill": "white"
+      }},
+    "encoding": {
+      "x": {"timeUnit": "year", "field": "year", "type": "temporal"},
+      "y": {"field": "arrest", "type": "quantitative", "title": "Number of Arrested (Line charted)"},
+      "color": {"field": "name"}
+    }}],
+    "resolve": {"axis": {"y": "independent"}},
+    "config": {"view": {"stroke": null}}
+  }
+  
