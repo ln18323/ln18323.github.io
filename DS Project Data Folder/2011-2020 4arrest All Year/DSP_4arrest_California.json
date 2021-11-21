@@ -1,0 +1,52 @@
+[
+    {
+        "year": 2011,
+        "value": 169405,
+        "name": "California"
+    },
+    {
+        "year": 2012,
+        "value": 171276,
+        "name": "California"
+    },
+    {
+        "year": 2013,
+        "value": 165307,
+        "name": "California"
+    },
+    {
+        "year": 2014,
+        "value": 167937,
+        "name": "California"
+    },
+    {
+        "year": 2015,
+        "value": 168787,
+        "name": "California"
+    },
+    {
+        "year": 2016,
+        "value": 166025,
+        "name": "California"
+    },
+    {
+        "year": 2017,
+        "value": 167258,
+        "name": "California"
+    },
+    {
+        "year": 2018,
+        "value": 163606,
+        "name": "California"
+    },
+    {
+        "year": 2019,
+        "value": 154087,
+        "name": "California"
+    },
+    {
+        "year": 2020,
+        "value": 143625,
+        "name": "California"
+    }
+]
