@@ -1,0 +1,52 @@
+[
+    {
+        "year": 2011,
+        "value": 10705,
+        "name": "New York"
+    },
+    {
+        "year": 2012,
+        "value": 10026,
+        "name": "New York"
+    },
+    {
+        "year": 2013,
+        "value": 9407,
+        "name": "New York"
+    },
+    {
+        "year": 2014,
+        "value": 9851,
+        "name": "New York"
+    },
+    {
+        "year": 2015,
+        "value": 9063,
+        "name": "New York"
+    },
+    {
+        "year": 2016,
+        "value": 9274,
+        "name": "New York"
+    },
+    {
+        "year": 2017,
+        "value": 11439,
+        "name": "New York"
+    },
+    {
+        "year": 2018,
+        "value": 10930,
+        "name": "New York"
+    },
+    {
+        "year": 2019,
+        "value": 8357,
+        "name": "New York"
+    },
+    {
+        "year": 2020,
+        "value": 7690,
+        "name": "New York"
+    }
+]
