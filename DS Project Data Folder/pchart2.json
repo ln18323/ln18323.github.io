@@ -9,13 +9,13 @@
       "anchor": "middle",
       "color": "black"
     },
-    "data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20Offense%20Arrest%203Cities.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20offense%20arrest%203cities.csv"},
     "width": 250,
     "height": 300,
   "layer":[{
     "encoding": {
       "x": {"field": "year", "type": "temporal", "title": "Year"},
-      "y": {"field": "arrest", "type": "quantitative", "title": "Cases of Offense (Bar charted)"},
+      "y": {"field": "income", "type": "quantitative", "title": "Cases of Offense (Bar charted)"},
       "color": {
         "condition": {
           "param": "hover",
@@ -29,9 +29,9 @@
       "opacity": {
         "condition": {
           "param": "hover",
-          "value": 0.5
+          "value": 0.39
         },
-        "value": 0.2
+        "value": 0.15
       }
     },
     "layer": [{
@@ -45,9 +45,7 @@
           "on": "mouseover"
         }
       }],
-      "mark": {"type": "line", "strokeWidth": 8, "stroke": "transparent"}
-    }, {
-      "mark": "bar"
+      "mark": {"type": "area", "strokeWidth": 8, "stroke": "transparent"}
     }]},
     {"mark": {"type": "line","point": {
         "filled": false,
@@ -61,4 +59,3 @@
     "resolve": {"axis": {"y": "independent"}},
     "config": {"view": {"stroke": null}}
   }
-  
