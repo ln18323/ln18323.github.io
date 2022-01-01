@@ -1,0 +1,52 @@
+[
+    {
+        "year": 2011,
+        "value": 6379,
+        "name": "North Dakota"
+    },
+    {
+        "year": 2012,
+        "value": 6899,
+        "name": "North Dakota"
+    },
+    {
+        "year": 2013,
+        "value": 7024,
+        "name": "North Dakota"
+    },
+    {
+        "year": 2014,
+        "value": 6767,
+        "name": "North Dakota"
+    },
+    {
+        "year": 2015,
+        "value": 8052,
+        "name": "North Dakota"
+    },
+    {
+        "year": 2016,
+        "value": 8512,
+        "name": "North Dakota"
+    },
+    {
+        "year": 2017,
+        "value": 8333,
+        "name": "North Dakota"
+    },
+    {
+        "year": 2018,
+        "value": 8001,
+        "name": "North Dakota"
+    },
+    {
+        "year": 2019,
+        "value": 8062,
+        "name": "North Dakota"
+    },
+    {
+        "year": 2020,
+        "value": 9092,
+        "name": "North Dakota"
+    }
+]
