@@ -1,0 +1,44 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  
+    "description": "Chart 1",
+    "title": "National Medium Household Income VS Offenses",
+    "data": {
+      "url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/National_Income_Offense.csv",
+      "format": {
+        "type": "csv"}
+    },
+  
+  
+    "height": 350,
+    "width": 300,
+    "layer" :[{
+    "mark": {"type": "line", "width":20, "color": "orangered"},
+    "encoding": {
+      "x": {"title": "Year", "field": "date", "type": "temporal"},
+      "y": {
+        "title": "Medium Household Income (National)",
+        "field": "income",
+        "type": "quantitative",
+        "scale" : {"domain" : [56000, 70000]}
+      
+      }
+    }},
+    {"mark": {"type": "circle", "color": "steelblue"}, "encoding": {
+      "x": {"title": "Year", "field": "date", "type": "temporal"},
+      "y": {
+        "title": "Medium Household Income (National)",
+        "field": "income",
+        "type": "quantitative",
+        "scale" : {"domain" : [56000, 70000]}
+    },
+    "size": {
+      "field": "new_offense",
+      "type": "quantitative",
+      "legend": null,
+      "scale": {"rangeMax": 1500}
+      },
+      "tooltip":[
+        {"field":"offense", "title":"Cases of Offense", "type": "ordinal"}
+      ]
+    }}]
+}
