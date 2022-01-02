@@ -1,4 +1,4 @@
-,year,name,offense,arrest,a_o_ratio,income,police,population,offense_ln
+,year,name,offense,arrest,a_o_ratio,income,police,population,offense_lnn
 0,2011,New York,10705,20367,1.902568893,58404,81888,19220124,2.31961655
 1,2012,New York,10026,25790,2.572311989,53854,79415,18350544,2.303234249
 2,2013,New York,9407,22805,2.424258531,55612,80143,18700380,2.287302343
