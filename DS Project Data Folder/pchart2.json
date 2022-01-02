@@ -53,9 +53,9 @@
       }},
     "encoding": {
       "x": {"timeUnit": "year", "field": "year", "type": "temporal"},
-      "y": {"field": "police", "type": "quantitative", "title": "No. Police Employed (Line charted)"},
+      "y": {"field": "per", "type": "quantitative", "title": "Police per 1000 people (Line charted)"},
       "color": {"field": "name"}
     }}],
-    "resolve": {"axis": {"y": "independent"}},
+    "resolve": {"scale": {"y": "independent"}},
     "config": {"view": {"stroke": null}}
   }
