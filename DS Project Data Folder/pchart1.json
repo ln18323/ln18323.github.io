@@ -11,8 +11,8 @@
     "color": "black"
   },
   
-    "width":300,
-    "height":300,
+    "width":650,
+    "height":350,
   
     "encoding": {
   
@@ -20,7 +20,7 @@
         "field": "income", 
         "type": "quantitative", 
         "title":"Median household Income",
-        "scale": {"domain": [30000, 115000]}},
+        "scale": {"domain": [30000, 100000]}},
   
       "y": {
        "field": "police_total",
