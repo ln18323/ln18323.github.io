@@ -1,0 +1,29 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20offense%20arrest%203cities.csv"
+  },
+  "width": {"step": 15},
+  "height": 275,
+  "mark": "bar",
+  "encoding": {
+    "column": {"field": "year", "type": "ordinal", "spacing": 0, "title": null},
+    "y": {
+      "aggregate": "sum",
+      "field": "arrest_lnn",
+      "title": "Arrest Index (Log and Standadised)",
+      "scale": {"domain": [2.3, 3.2]}
+    },
+    "x": {
+      "field": "name",
+      "axis": {"title": "", "labelColor": "white", "ticks": false},
+      "sort": "-y"
+    },
+    "color": {
+      "field": "name",
+      "scale": {"range": ["#122b39", "#00a767", "#179fdb", "#e6224b"]},
+      "legend": {"orient": "right", "title": "State"}
+    }
+  },
+  "config": {"view": {"stroke": "transparent"}, "axis": {"domainWidth": 1}}
+}
