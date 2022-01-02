@@ -15,7 +15,7 @@
   "layer":[{
     "encoding": {
       "x": {"field": "year", "type": "temporal", "title": "Year"},
-      "y": {"field": "income", "type": "quantitative", "title": "Cases of Offense (Bar charted)"},
+      "y": {"field": "arrest", "type": "quantitative", "title": "No. Arrested (Bar charted)"},
       "color": {
         "condition": {
           "param": "hover",
@@ -53,7 +53,7 @@
       }},
     "encoding": {
       "x": {"timeUnit": "year", "field": "year", "type": "temporal"},
-      "y": {"field": "arrest", "type": "quantitative", "title": "Number of Arrested (Line charted)"},
+      "y": {"field": "police", "type": "quantitative", "title": "No. Police Employed (Line charted)"},
       "color": {"field": "name"}
     }}],
     "resolve": {"axis": {"y": "independent"}},
