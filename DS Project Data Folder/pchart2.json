@@ -15,7 +15,7 @@
   "layer":[{
     "encoding": {
       "x": {"field": "year", "type": "temporal", "title": "Year"},
-      "y": {"field": "arrest", "type": "quantitative", "title": "No. Arrested (Bar charted)"},
+      "y": {"field": "income", "type": "quantitative", "title": "Income (Bar charted)"},
       "color": {
         "condition": {
           "param": "hover",
