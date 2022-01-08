@@ -21,6 +21,7 @@ h1, h3, p{
     border-color: black;
     align-items: center;
     justify-content: center;
+    display: flex;
 }
 
 }
