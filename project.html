@@ -1,5 +1,78 @@
 <!DOCTYPE html>
 
-<head> Welcome to the project page of Ln18323@bristol.ac.uk </head>
+<!-- Richard Davies, Data Science 2021 -->
 
-<p> Web construction is working in progress, now <a href = "index"> click </a> to negivate back to the page. </p>
+
+<!-- ///////////////////  HEAD //////////////////////////////////// -->
+
+<head>
+
+<!--The next three lines allow the Vega embed-->
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+<link rel="stylesheet" href="index.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<!-- ///////////////////  HEAD //////////////////////////////////// -->
+
+
+
+<!-- ///////////////////  START BODY //////////////////////////////////// -->
+<body>
+
+
+<!--Project chart1 -->
+<div class="chart" id="pchart1" style = "width: 370px;">
+      <script>
+        var pchart1 = "pchart1.json";
+        vegaEmbed('#pchart1', pchart1);
+      </script>
+</div>
+  
+<!--Project chart2 -->
+<div class="chart" id="pchart2" style = "width: 710px;">
+      <script>
+        var pchart2 = "pchart2.json";
+        vegaEmbed('#pchart2', pchart2);
+      </script>
+</div>
+  
+<!--Project chart3 -->
+<div class="chart" id="pchart3" style = "width: 320px;">
+      <script>
+        var pchart3 = "pchart3.json";
+        vegaEmbed('#pchart3', pchart3);
+      </script>
+</div>
+
+<!--Project chart4 -->
+<div class="chart" id="pchart4" style = "width: 120px;">
+      <script>
+        var pchart4 = "pchart4.json";
+        vegaEmbed('#pchart4', pchart4);
+      </script>
+</div>
+
+ <!--Project chart5 -->
+<div class="chart" id="pchart5" style = "width: 120px;">
+      <script>
+        var pchart5 = "pchart5.json";
+        vegaEmbed('#pchart5', pchart5);
+      </script>
+</div>
+  
+ <!--Project chart7 -->
+<div class="chart" id="pchart7" style = "width: 120px;">
+      <script>
+        var pchart7 = "pchart7.json";
+        vegaEmbed('#pchart7', pchart7);
+      </script>
+</div>
+
+</body>
+<!-- ///////////////////  END BODY //////////////////////////////////// -->
+
+</html>
