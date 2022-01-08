@@ -21,10 +21,10 @@ h1, h3, p{
     border-style: solid;
     border-radius: 5px;
     border-color: black;
-    align-items: centre;
-    align-content: centre;
-    test-align: centre;
-    align-self: centre;
+    align-items: center;
+    align-content: center;
+    test-align: center;
+    align-self: center;
 }
 
 }
