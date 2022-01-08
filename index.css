@@ -22,9 +22,8 @@ h1, h3, p{
     border-radius: 5px;
     border-color: black;
     align-items: center;
-    align-content: center;
-    test-align: center;
-    align-self: center;
+    justify-content: center;
+    display: flex;
 }
 
 }
