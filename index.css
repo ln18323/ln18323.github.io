@@ -24,10 +24,4 @@ h1, h3, p{
     border-color: black;
 }
 
-.center {
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    border: 5px solid #FFFF00;
-    padding: 10px;
 }
