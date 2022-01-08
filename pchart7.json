@@ -1,0 +1,35 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  
+    "description": "Chart 7",
+    "title": "Correlation (State) between Medium Household Income and Offense",
+    "data": {
+      "url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/correlation.csv",
+      "format": {
+        "type": "csv"}
+    },
+  
+  
+    "height": 350,
+    "width": 300,
+    "params": [{
+    "name": "grid",
+    "select": "interval",
+    "bind": "scales"
+  }],
+    
+    "mark": {"type": "circle", "width":20, "color": "orangered"},
+    "encoding": {
+      "x": {"title": "", "field": "CC", "type": "quantitative"},
+      "y": {
+        "title": "",
+        "field": "CC",
+        "type": "quantitative"
+      
+      },
+      "tooltip":[
+        {"field":"state", "title":"State", "type": "ordinal"}
+    
+      ],
+      "color": {"field": "Region", "type": "nominal"}
+    
+}}
