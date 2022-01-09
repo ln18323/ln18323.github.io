@@ -3,7 +3,7 @@
   
   
     "title": {
-    "text": "No. of Police VS Median Income",
+    "text": "(Figure 2) No. of Police VS Median Household Income",
     "subtitle": "Number of Police of a State (X), and the median level of household income of a State (Y)",
     "subtitleFontStyle":"italic",
     "subtitleFontSize":10,
