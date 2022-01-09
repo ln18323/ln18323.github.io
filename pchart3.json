@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Multi-series line chart with labels and interactive highlight on hover.  We also set the selection's initial value to provide a better screenshot",
     "title": {
-      "text": "The 3 U.S. states with greatest police force",
+      "text": "(Figure 3) The 3 U.S. states with seclected characteristics",
       "subtitle": "This is an intereactive chart that the Cases of Offense appear when hovered to the corresponding Line",
       "subtitleFontStyle": "italic",
       "subtitleFontSize": 10,
