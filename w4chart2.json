@@ -1,6 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "A simple bar chart with embedded data.",
+  "title": "Test score of students",
   "data": {
     "values": [
       {"a": "Derek", "b": 40}, {"a": "Fin", "b": 52}, {"a": "Kai", "b": 43},
