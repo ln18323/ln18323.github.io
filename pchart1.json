@@ -1,7 +1,7 @@
 {"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   
     "description": "Chart 1",
-    "title": "(Figure 1) National Medium Household Income VS Offenses",
+    "title": "(Figure 1) National Median Household Income VS Offenses",
     "data": {
       "url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/National_Income_Offense.csv",
       "format": {
