@@ -3,7 +3,7 @@
     
     "title": {
       "text": "Covid Cases in 3 UK Regions",
-      "subtitle":"This chart is displayed through direct API",
+      "subtitle":"This chart is displayed through downloaded CSV and stored in Github",
       "subtitleFontStyle":"italic",
       "subtitleFontSize":15,
       "anchor": "start",
