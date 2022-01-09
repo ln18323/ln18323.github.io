@@ -1,0 +1,67 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    
+    "title": {
+      "text": "Consuming Power of Bitcoin and US Dollar",
+      "subtitle":"",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":15,
+      "anchor": "start",
+      "color": "black"
+    },
+  
+  "layer":[{
+     "data": {
+      "url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/currencypower.csv",
+      "format": {"type": "csv"}
+    },
+    
+    "height": 300,
+    "width": 310,
+    "mark": {"type": "line", "point": false, "color": "#F1C40F"},
+    "encoding": {
+      "x": {
+        "field": "year",
+        "type": "temporal",
+        "title": null
+      },
+      "y": {
+        "field": "btc",
+        "type": "quantitative",
+        "title": "BTC Price (Line in Gold)",
+        "axis": {"grid": false}
+      }}    
+      },
+      {
+  "data": {
+    "url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/currencypower.csv",
+    "format": {
+      "type": "csv"}
+  },
+
+  "height": 300,
+  
+  "width": 280,
+  
+  "mark": {"type": "line", "width":10},
+
+  "encoding": {
+    "x": {"field": "year", "type": "temporal"},
+    "y": {
+      "field": "usdindex",
+      "type": "quantitative",
+      "title": "US Dollar index (Line in Blue)"
+    
+    }
+
+  }
+}
+  ],
+
+"resolve": {
+  "scale": {
+    "y": "independent"
+  }
+}
+ 
+  }
