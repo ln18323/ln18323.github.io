@@ -33,7 +33,7 @@
   
       },
     "height": 300,
-    "width": 250,
+    "width": 270,
   
     "encoding": {
       "y": {"field": "exchange", "type": "ordinal", "sort":[], "title": null, "sort": "-x"},
