@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "(Figure 5) Standadised Arrest Index of 3 selected states",
-  "subtitle": "Index calculated by standadisation of the log of number",
+  "subtitle": "Index calculated by standadisation of the log of Arrested",
   "data": {
     "url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20offense%20arrest%203cities.csv"
   },
