@@ -2,7 +2,7 @@
   
     "description": "Chart 7",
     "title": "(Figure 7)Correlation (State) between Medium Household Income and Offense",
-    "subtitle": "Interactive with zoom in and out"
+    "subtitle": "Interactive with zoom in and out",
     "data": {
       "url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/correlation.csv",
       "format": {
