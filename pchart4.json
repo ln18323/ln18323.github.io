@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "(Figure 4) Standised Offense Index of 3 selected states"
+    "title": "(Figure 4) Standised Offense Index of 3 selected states",
     "data": {
       "url": "https://raw.githubusercontent.com/ln18323/ln18323.github.io/main/DS%20Project%20Data%20Folder/2011-2020%20offense%20arrest%203cities.csv"
     },
